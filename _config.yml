@@ -27,6 +27,15 @@ authors:
       bio:            "C++ Programmer and trainer"
       email:          psmaas@gmail.com
       twitter:        https://twitter.com/pati_gallardo
+
+
+    nisha:
+      name:           Nisha
+      site:
+      avatar:
+      bio:            "Writer and QA"
+      email:
+      twitter:
  
 # Defaults
 defaults:

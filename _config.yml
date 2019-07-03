@@ -6,6 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 #disqus: 'demowebsite'
+twitter: 
 email: 'techwomen.no@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -23,19 +24,19 @@ authors:
     patricia:
       name:           Patricia
       site:           https://patricia.no
-      avatar:         /assets/images/patricia.jpg
+      avatar:         assets/images/patricia.jpg
       bio:            "C++ Programmer and trainer"
       email:          psmaas@gmail.com
       twitter:        https://twitter.com/pati_gallardo
 
 
-    nisha:
-      name:           Nisha
-      site:
-      avatar:
+    winifred:
+      name:           Winifred
+      site:           https://winifredburton.com
+      avatar:         assets/images/winifred.jpg
       bio:            "Writer and QA"
       email:
-      twitter:
+      twitter:        https://twitter.com/winnaburto
  
 # Defaults
 defaults:

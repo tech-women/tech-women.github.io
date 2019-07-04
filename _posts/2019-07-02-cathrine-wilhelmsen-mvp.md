@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cathrine Wilhelmsen MVP for the fifth time"
+description: "Receiving it once is an accomplishment, 5 years in a row is fantastic"
 author: patricia
 categories: [ profile ]
 image: assets/images/murals-2561126_1920.jpg

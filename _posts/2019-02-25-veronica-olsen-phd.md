@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Veronica K. B. Olsen, Physicist and Research Fellow at CERN, receives her PhD at UiO"
+description: "Dissertation: Beam Loading in a Proton Driven Plasma Wakefield Accelerator "
+author: patricia
+categories: [ profile ]
+image: assets/images/veronica-photo.png
+tags: featured
+---
+[Veronica K. B. Olsen][1] successfully defended her PhD dissertation at UiO today. The dissertation, with the title [*Beam Loading in a Proton Driven Plasma Wakefield Accelerator*][2], is based on her research at CERN where she has processed large amounts of data using models built in Fortran. Dr. Olsen currently works as a Research Fellow at CERN on the [High Luminosity LHC][3], which is an upgrade to the Large Hadron Collider.
+
+<img src="/assets/images/veronica-phd.jpeg" alt=""  width="348" height="145">
+
+I made a feeble attempt to live-tweet the dissertation, having no physics background to speak of.
+
+<blockquote class="twitter-tweet" data-lang="no"><p lang="en" dir="ltr">I will be attempting to live tweet <a href="https://twitter.com/VeronicaInPink?ref_src=twsrc%5Etfw">@VeronicaInPink</a> PhD thesis defense 🤓 I don’t expect to understand anything 😂 <a href="https://t.co/iUPoaS6clQ">pic.twitter.com/iUPoaS6clQ</a></p>&mdash; Patricia Aas (@pati_gallardo) <a href="https://twitter.com/pati_gallardo/status/1100004594330013696?ref_src=twsrc%5Etfw">25. februar 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[1]: http://vkbo.net/
+[2]: https://www.duo.uio.no/handle/10852/66865
+[3]: http://hilumilhc.web.cern.ch/

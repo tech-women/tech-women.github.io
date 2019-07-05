@@ -7,7 +7,7 @@ categories: [ profile ]
 image: assets/images/veronica-photo.png
 tags: featured
 ---
-[Veronica K. B. Olsen][1] successfully defended her PhD dissertation at UiO today. The dissertation, with the title [*Beam Loading in a Proton Driven Plasma Wakefield Accelerator*][2], is based on her research at CERN where she has processed large amounts of data using models built in Fortran. Dr. Olsen currently works as a Research Fellow at CERN on the [High Luminosity LHC][3], which is an upgrade to the Large Hadron Collider.
+[Veronica K. B. Olsen][1] successfully defended her PhD dissertation at UiO today. The dissertation, with the title [*Beam Loading in a Proton Driven Plasma Wakefield Accelerator*][2], is based on her research at CERN where she has processed large amounts of simulation data using Fortran. The analysis was done in Matlab and she wrote two large libraries to do this analysis. The libraries are on GitHub and are being used by other students as well. Dr. Olsen currently works as a Research Fellow at CERN on the [High Luminosity LHC][3], which is an upgrade to the Large Hadron Collider.
 
 <img src="/assets/images/veronica-phd.jpeg" alt=""  width="348" height="145">
 

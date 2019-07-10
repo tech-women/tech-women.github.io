@@ -8,7 +8,7 @@ image: assets/images/street-2547628_1920.jpg
 tags: featured
 ---
 
-Back in April 2012, over a few beers at the pub, Linda Sandvik (frontend developer) and Clare Sutcliffe (user experience designer) bought a domain and quickly put up a website asking folks to sign up to their concept of teaching kids to code. What started out as a half-joking stunt has grown into an organization that currently teaches 180,000 kids to code each week. Linda and Clare put together Creative Commons licensed courses and taught kids Scratch, HTML/CSS and Python through what became thousands of volunteers.
+Back in April 2012, over a few beers at the pub, Linda Sandvik (frontend developer) and Clare Sutcliffe (user experience designer) bought a domain and quickly put up a website asking folks to sign up to their concept of teaching kids to code. What started out as a half-joking stunt has grown into [Code Club][2] an organization that currently teaches 180,000 kids to code each week. Linda and Clare put together Creative Commons licensed courses and taught kids Scratch, HTML/CSS and Python through what became thousands of volunteers.
 
 Code Club has gone on to inspire similar concepts all over the world. In Norway “Lær kidsa koding” was set up in 2013 as a very similar concept, teaching kids, among other things, Scratch and Python. In the US Code.org was launched, also in 2013.
 
@@ -33,3 +33,4 @@ The original author of courses for teaching kids to code, was never tapped in to
 Regardless of her disappointing meeting with the Norwegian tech community, she has had an immense impact on the world, and is a true inspiration for what two people can achieve.
 
 [1]: https://medium.com/@hyper_linda/an-inappropriate-interview-question-83babb28c98e
+[2]: https://codeclub.org/en

@@ -1,0 +1,11 @@
+- name: Blank AS
+  url: https://www.blank.no/
+  role: Venue Sponsor
+
+- name: Cisco Norway
+  url: https://www.cisco.com/c/no_no/
+  role: Food Sponsor
+
+- name: NDC Conferences
+  url: https://ndcconferences.com/
+  role: Recording Sponsor

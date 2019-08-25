@@ -3,6 +3,9 @@
     align-items: flex-end;
     margin-bottom: 2rem;
 }
+.container.ada h2 {
+    margin-top: 2rem;
+}
 .container.ada .header .spanborder {
     margin-bottom: 0;
 }

@@ -4,23 +4,19 @@ layout: default
 
 <div class="container ada">
   <div class="row">
-    <div class="col-sd-12">
-      <div class="header">
-        <img
-                src="{{site.baseurl}}/assets/images/tech-women-norway-punk-sentr.png"
-                alt="{{page.title}}"
-        />
-        <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
-      </div>
-    </div>
-  </div>
-  <div class="row">
     <div class="col-md-8">
+      <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
       <div class="page-content">
         {{ content }}
       </div>
     </div>
     <div class="col-md-4">
+      <img
+        src="{{site.baseurl}}/assets/images/tech-women-norway-punk-sentr-transparent-250px.png"
+        alt="{{page.title}}"
+        class="d-none d-sm-inline-block logo"
+      />
+
       <h4>Sponsors</h4>
 
       <p>This event is made possible with support from these sponsors.</p>
@@ -29,8 +25,8 @@ layout: default
         {% for sponsor in site.data.ada2019_sponsors %}
         <li>
           <a href="{{ sponsor.url }}" rel="friend met">
-            {{ sponsor.name }}
-          </a><br>
+            {{ sponsor.name }} </a
+          ><br />
           <small>{{ sponsor.role }}</small>
         </li>
         {% endfor %}

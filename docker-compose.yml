@@ -1,5 +1,5 @@
 jekyll:
-    image: jekyll/jekyll:latest
+    build: .
     command: jekyll serve --force_polling
     ports:
         - 4000:4000

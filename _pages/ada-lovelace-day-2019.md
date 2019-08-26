@@ -14,7 +14,7 @@ During the conference 8 women will give hands-on talks about their work and fiel
 > Nominations for the Role Models list are open!
 > Please use [this form](https://forms.gle/jCMJEj5HcTzs5p8JA) to propose Tech Role Models.
 >
-> <a href="https://forms.gle/jCMJEj5HcTzs5p8JA" class="btn btn-dark">Vote for your Role Model here!</a>
+> <a href="https://forms.gle/jCMJEj5HcTzs5p8JA" target="_blank" class="btn btn-dark">Vote for your Role Model here!</a>
 
 
 ## Registration

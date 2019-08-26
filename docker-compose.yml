@@ -1,6 +1,6 @@
 jekyll:
-    image: jekyll/jekyll:latest
-    command: bash -c "apk update && apk add --no-cache libc6-compat && ln -s /lib/libc.musl-x86_64.so.1 /lib/ld-linux-x86-64.so.2 && jekyll serve --force_polling"
+    build: .
+    command: jekyll serve --force_polling
     ports:
         - 4000:4000
     volumes:

@@ -1,15 +1,19 @@
 - name: Blank AS
   url: https://www.blank.no/
   role: Venue Sponsor
+  logo: blank.svg
 
 - name: Cisco Norway
   url: https://www.cisco.com/c/no_no/
   role: Food Sponsor
+  logo: cisco.png
 
 - name: NDC Conferences
   url: https://ndcconferences.com/
   role: Recording Sponsor
+  logo: ndc.png
 
 - name: Booster Conference
   url: https://boosterconf.no/
   role: Travel Sponsor
+  logo: booster.svg

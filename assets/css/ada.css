@@ -20,3 +20,35 @@
     padding: 1rem;
     padding-bottom: 0;
 }
+
+/* Schedule table */
+.container.ada table {
+    margin-bottom: 2rem;
+}
+
+/* Sponsors */
+.container.ada .sponsors {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.container.ada .sponsors div {
+    display: flex;
+    flex-direction: column;
+    filter: grayscale(100%);
+    transition: linear 0.5s;
+}
+
+.container.ada .sponsors div:hover {
+    filter: grayscale(0%);
+    transition: linear 0.5s;
+}
+
+.container.ada .sponsors div {
+    margin-top: 4rem;
+}
+
+.container.ada .sponsors img {
+    width: 50%;
+    margin-bottom: 1rem;
+}

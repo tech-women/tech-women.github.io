@@ -40,6 +40,15 @@ authors:
       email:
       twitter:        https://twitter.com/winnaburto
 
+
+    marte:
+      name:           marte
+      site:           
+      avatar:         assets/images/marte.jpg
+      bio:            "Programmer and search nerd"
+      email:
+      twitter:        https://twitter.com/Marte_Helene
+
 # Defaults
 defaults:
 

@@ -33,4 +33,4 @@ and “Consents for GDPR”:
 <iframe src="https://player.vimeo.com/video/289663706?color=ff9933&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/289663706">Dear User, Please Say Yes! : Lotte Johansen</a> from <a href="https://vimeo.com/javazone">JavaZone</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-However, this year she will be giving another talk on accessibility at JavaZone.
+However, this year she will be giving another talk on accessibility at JavaZone. Along with fellow accessibility enthusiasts from the «Web Accessibility» group at FINN.no, she will demonstrate how to navigate around real world constraints. The talk is based on five years of experience working with accessibility, and will present an interesting perspective on problem solving when facing challenges implementing web accessibility.

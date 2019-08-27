@@ -29,10 +29,14 @@ _Note: The event is now full and new folks are being added to the waiting list._
 | ----- | ----------------------------------------------------------- |
 | 08:20 | breakfast &amp; mingling                                    |
 | 9:00  | Keynote: [Christin Gorman](https://kranglefant.tumblr.com/) |
-| 9:20  | Talks I                                                     |
+| 9:20  | Talk:                                                       |
+| 9:40  | Talk:                                                       |
 | 10:00 | _Break_                                                     |
-| 10:10 | Talks II                                                    |
+| 10:10 | Talk:                                                       |
+| 10:30 | Talk:                                                       |
+| 10:50 | Talk:                                                       |
 | 11:10 | _Break_                                                     |
-| 11:20 | Talks III                                                   |
+| 11:20 | Talk:                                                       |
+| 11:40 | Talk:                                                       |
 | 12:00 | Presentation of the 2019 _List of Role Models_              |
 | 12:20 | _Lunch_                                                     |

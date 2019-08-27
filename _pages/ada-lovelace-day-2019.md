@@ -28,7 +28,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 | When  | What                                           | Title |
 | ----- | -----------------------------------------------| ----- |
 | 08:20 | breakfast &amp; mingling                       |       |
-| 9:00  | Keynote: [Christin Gorman][1]                  |       |
+| 9:00  | Keynote: [Christin Gorman][1]                  | _"From initial request to software in production in 3 weeks"_      |
 | 9:20  | Talk: [TBA][2]                                 |       |
 | 9:40  | Talk: [Silje Ljosland Bakke][3]                | _"What's the thing about Health IT?"_ |
 | 10:00 | _Break_                                        |       |

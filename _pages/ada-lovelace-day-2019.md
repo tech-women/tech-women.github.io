@@ -4,7 +4,7 @@ permalink: "/ada-lovelace-day-2019.html"
 layout: ada
 ---
 
-Welcome to the _Ada Lovelace mini-conference_ and the presentation of the _2019 Tech Role Models_.
+Welcome to the _Ada Lovelace mini-conference_ and the presentation of the [_2019 Tech Role Models_](https://www.digi.no/artikler/patricia-aas-arrangerer-pris-for-kvinner-som-faktisk-jobber-i-it/471216).
 
 During the conference 8 women will give hands-on talks about their work and fields.
 

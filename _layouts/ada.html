@@ -21,16 +21,18 @@ layout: default
 
       <p>This event is made possible with support from these sponsors.</p>
 
-      <ul>
+      <section class="sponsors">
         {% for sponsor in site.data.ada2019_sponsors %}
-        <li>
+        <div>
           <a href="{{ sponsor.url }}" rel="friend met">
-            {{ sponsor.name }} </a
-          ><br />
+            <img
+              src="{{site.baseurl}}/assets/sponsors/{{ sponsor.logo }}"
+              alt="{{ sponsor.name }}"
+          /></a>
           <small>{{ sponsor.role }}</small>
-        </li>
+        </div>
         {% endfor %}
-      </ul>
+      </section>
     </div>
   </div>
 </div>

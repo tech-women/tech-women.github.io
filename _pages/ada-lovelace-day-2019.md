@@ -19,7 +19,7 @@ During the conference 8 women will give hands-on talks about their work and fiel
 
 ## Registration
 
-<a href="https://www.meetup.com/de-DE/Tech-Women-Norway/events/264108718/" class="btn btn-dark">Register here</a>
+<a href="https://www.meetup.com/Tech-Women-Norway/events/264108718/" class="btn btn-dark">Register here</a>
 
 _Note: The event is now full and new folks are being added to the waiting list._
 

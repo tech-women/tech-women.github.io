@@ -36,8 +36,8 @@ _Note: The event is now full and new folks are being added to the waiting list._
 | 10:30 | Talk: [Marta Paciorkowska][5]                  |       |
 | 10:50 | Talk: [Silje Lærk][6]                          | _"Klart og utydelig! Hvorfor klart budskap er så viktig for sikkerhet."_ |
 | 11:10 | _Break_                                        |       |
-| 11:20 | Talk: [TBA][2]                                 |       |
-| 11:40 | Talk: [TBA][2]                                 |       |
+| 11:20 | Talk: [TBA][7]                                 |       |
+| 11:40 | Talk: [Tannaz Roshandel][8]                    |       |
 | 12:00 | Presentation of the 2019 _List of Role Models_ |       |
 | 12:20 | _Lunch_                                        |       |
 
@@ -48,4 +48,4 @@ _Note: The event is now full and new folks are being added to the waiting list._
 [5]: https://twitter.com/a_meba
 [6]: https://twitter.com/siljel
 [7]: https://techwomen.no
-[8]: https://techwomen.no
+[8]: https://twitter.com/tannaznvr

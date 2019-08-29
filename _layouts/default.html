@@ -6,8 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
      <!-- Title, description, author -->
+    {% assign title = page.title %}
+    {% if page.speaker %}
+    {% assign speaker = site.data.speakers[page.speaker] %}
+    {% assign title = speaker.name %}
+    {% endif %}
     {%- capture _page_title -%}
-    {%- if page.title -%}{{- page.title | append: ' | ' -}}{%- endif -%}
+    {%- if title -%}{{- title | append: ' | ' -}}{%- endif -%}
     {{- site.name | default: "Untitled Website" -}}
     {%- if site.subtitle -%}{{- site.subtitle | prepend: ' - ' -}}{%- endif -%}
     {%- endcapture -%}
@@ -40,7 +45,7 @@
     <link rel="icon" type="image/png" href="{{- 'assets/icon/pati-263x263.png' | relative_url -}}" />
     -->
 
-    <title>{{page.title}} | {{site.name}}</title>
+    <title>{{title}} | {{site.name}}</title>
 
     {% seo %}
 

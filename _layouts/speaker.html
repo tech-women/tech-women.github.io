@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+{% assign speaker = site.data.speakers[page.speaker] %}
+
+<div class="container speaker">
+  <div class="info">
+    <h2 class="font-weight-bold">
+      {{ speaker.name }}
+      <span class="small btn btn-outline-success btn-sm btn-round"
+        ><a target="_blank" href="https://twitter.com/{{ speaker.twitter }}">Follow</a></span
+      >
+    </h2>
+    <p class="pronouns">
+      Pronouns: <em>{{ speaker.pronouns }}</em>
+    </p>
+    {% if speaker.site %}
+    <p><a href="{{ speaker.site }}">{{ speaker.site }}</a></p>
+    {% endif %}
+    {{ speaker.bio | markdownify }}
+
+    <a target="_blank" href="https://twitter.com/{{ speaker.twitter }}">
+      <i class="fab fa-twitter text-muted" aria-hidden="true"></i>
+      @{{ speaker.twitter }}
+    </a>  &nbsp;
+
+  </div>
+  <div class="avatar">
+    <img
+      alt="{{ speaker.name }}"
+      src="{{site.baseurl}}/assets/speakers/{{ page.speaker }}.250.jpg"
+      class="rounded-circle"
+      height="100"
+      width="100"
+    />
+  </div>
+</div>

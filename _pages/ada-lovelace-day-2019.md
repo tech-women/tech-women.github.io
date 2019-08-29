@@ -24,6 +24,8 @@ _Note: The event is now full and new folks are being added to the waiting list._
 
 ## Schedule
 
+{% assign lorena = site.data.speakers.lorena %}
+
 | When  | What                                                                                              |
 | ----- | ------------------------------------------------------------------------------------------------- |
 | 8:20  | breakfast &amp; mingling                                                                          |
@@ -31,7 +33,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 | 9:20  | Talk: _TBA_                                                                                       |
 | 9:40  | Talk: [Silje Ljosland Bakke][3]<br>_"What's the thing about Health IT?"_                          |
 | 10:00 | _Break_                                                                                           |
-| 10:10 | Talk: [Lorena Carthy][4]                                                                          |
+| 10:10 | Talk: [{{ lorena.name }}][lorena] <em class="pronouns">({{ lorena.pronouns }})</em>                                       |
 | 10:30 | Talk: [Marta Paciorkowska][5]                                                                     |
 | 10:50 | Talk: [Silje Lærk][6]<br>_"Klart og utydelig! Hvorfor klart budskap er så viktig for sikkerhet."_ |
 | 11:10 | _Break_                                                                                           |
@@ -41,7 +43,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 
 [1]: https://twitter.com/ChristinGorman
 [3]: https://twitter.com/siljelb
-[4]: https://twitter.com/acdlola
+[lorena]: {{site.baseurl}}/speakers/lorena-carthy
 [5]: https://twitter.com/a_meba
 [6]: https://twitter.com/siljel
 [8]: https://twitter.com/tannaznvr

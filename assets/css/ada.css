@@ -1,70 +1,106 @@
 .container.ada .header {
-    display: flex;
-    align-items: flex-end;
-    margin-bottom: 2rem;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 2rem;
 }
 .container.ada h2 {
-    margin-top: 2rem;
+  margin-top: 2rem;
 }
 .container.ada .header .spanborder {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 .container.ada img.logo {
-    width: 80%;
-    margin-left: 10%;
-    margin-bottom: 2rem;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 2rem;
 }
 
 .container.ada blockquote {
-    border: 1px solid #dddddd;
-    padding: 1rem;
-    padding-bottom: 0;
+  border: 1px solid #dddddd;
+  padding: 1rem;
+  padding-bottom: 0;
 }
 
 /* Schedule table */
 .container.ada table {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
 .container.ada table td {
-    border-bottom: 1px solid #ccc;
-    vertical-align: top;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ccc;
+  vertical-align: top;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .container.ada table td:first-child {
-    text-align: right;
-    padding-right: 1rem;
+  text-align: right;
+  padding-right: 1rem;
 }
 
 .container.ada table tr:last-child td {
-    border-bottom: 0;
+  border-bottom: 0;
 }
 
 /* Sponsors */
 .container.ada .sponsors {
-    text-align: center;
-    color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .container.ada .sponsors div {
-    display: flex;
-    flex-direction: column;
-    filter: grayscale(100%);
-    transition: linear 0.5s;
+  display: flex;
+  flex-direction: column;
+  filter: grayscale(100%);
+  transition: linear 0.5s;
 }
 
 .container.ada .sponsors div:hover {
-    filter: grayscale(0%);
-    transition: linear 0.5s;
+  filter: grayscale(0%);
+  transition: linear 0.5s;
 }
 
 .container.ada .sponsors div {
-    margin-top: 4rem;
+  margin-top: 4rem;
 }
 
 .container.ada .sponsors img {
-    width: 50%;
-    margin-bottom: 1rem;
+  width: 50%;
+  margin-bottom: 1rem;
+}
+
+.container.speaker img {
+  width: 75%;
+  height: auto;
+  max-width: 250px;
+}
+
+.container.speaker .avatar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  flex-shrink: 0;
+}
+
+.container.speaker {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+@media (min-width: 576px) {
+  .container.speaker {
+    flex-direction: row;
+    align-items: center;
+    max-width: 768px;
+  }
+  .container.speaker img {
+    width: 250px;
+    height: 250px;
+    margin-left: 2rem;
+    margin-bottom: 0;
+  }
+}
+
+.pronouns {
+  color: rgba(0,0,0,0.6);
 }

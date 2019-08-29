@@ -16,7 +16,7 @@
 }
 
 .container.ada blockquote {
-    border: 1px solid #ccc;
+    border: 1px solid #dddddd;
     padding: 1rem;
     padding-bottom: 0;
 }
@@ -24,6 +24,22 @@
 /* Schedule table */
 .container.ada table {
     margin-bottom: 2rem;
+}
+
+.container.ada table td {
+    border-bottom: 1px solid #ccc;
+    vertical-align: top;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.container.ada table td:first-child {
+    text-align: right;
+    padding-right: 1rem;
+}
+
+.container.ada table tr:last-child td {
+    border-bottom: 0;
 }
 
 /* Sponsors */

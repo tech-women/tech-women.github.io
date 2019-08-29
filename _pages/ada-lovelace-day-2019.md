@@ -9,13 +9,12 @@ Welcome to the _Ada Lovelace mini-conference_ and the presentation of the [_2019
 During the conference 8 women will give hands-on talks about their work and fields.
 
 **When**: 8th October 2019, 8:20-13:00  
-**Location**: [Youngs gate 7, 0181 Oslo, Norway](https://goo.gl/maps/E5re8jL5EGzmPW5R7) at Blank AS offices 
+**Location**: [Youngs gate 7, 0181 Oslo, Norway](https://goo.gl/maps/E5re8jL5EGzmPW5R7) at Blank AS offices
 
 > Nominations for the Role Models list are open!
 > Please use [this form](https://forms.gle/jCMJEj5HcTzs5p8JA) to propose Tech Role Models.
 >
 > <a href="https://forms.gle/jCMJEj5HcTzs5p8JA" target="_blank" class="btn btn-dark">Nominate a Role Model!</a>
-
 
 ## Registration
 
@@ -25,27 +24,24 @@ _Note: The event is now full and new folks are being added to the waiting list._
 
 ## Schedule
 
-| When  | What                                           | Title |
-| ----- | -----------------------------------------------| ----- |
-| 08:20 | breakfast &amp; mingling                       |       |
-| 9:00  | Keynote: [Christin Gorman][1]                  | _"From initial request to software in production in 3 weeks"_      |
-| 9:20  | Talk: [TBA][2]                                 |       |
-| 9:40  | Talk: [Silje Ljosland Bakke][3]                | _"What's the thing about Health IT?"_ |
-| 10:00 | _Break_                                        |       |
-| 10:10 | Talk: [Lorena Carthy][4]                       |       |
-| 10:30 | Talk: [Marta Paciorkowska][5]                  |       |
-| 10:50 | Talk: [Silje Lærk][6]                          | _"Klart og utydelig! Hvorfor klart budskap er så viktig for sikkerhet."_ |
-| 11:10 | _Break_                                        |       |
-| 11:20 | Talk: [TBA][7]                                 |       |
-| 11:40 | Talk: [Tannaz Roshandel][8]                    |       |
-| 12:00 | Presentation of the 2019 _List of Role Models_ |       |
-| 12:20 | _Lunch_                                        |       |
+| When  | What                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------- |
+| 8:20  | breakfast &amp; mingling                                                                          |
+| 9:00  | Keynote: [Christin Gorman][1]<br>_"From initial request to software in production in 3 weeks"_    |
+| 9:20  | Talk: _TBA_                                                                                       |
+| 9:40  | Talk: [Silje Ljosland Bakke][3]<br>_"What's the thing about Health IT?"_                          |
+| 10:00 | _Break_                                                                                           |
+| 10:10 | Talk: [Lorena Carthy][4]                                                                          |
+| 10:30 | Talk: [Marta Paciorkowska][5]                                                                     |
+| 10:50 | Talk: [Silje Lærk][6]<br>_"Klart og utydelig! Hvorfor klart budskap er så viktig for sikkerhet."_ |
+| 11:10 | _Break_                                                                                           |
+| 11:40 | Talk: [Tannaz Roshandel][8]                                                                       |
+| 12:00 | Presentation of the 2019 _List of Role Models_                                                    |
+| 12:20 | _Lunch_                                                                                           |
 
 [1]: https://twitter.com/ChristinGorman
-[2]: https://techwomen.no
 [3]: https://twitter.com/siljelb
 [4]: https://twitter.com/acdlola
 [5]: https://twitter.com/a_meba
 [6]: https://twitter.com/siljel
-[7]: https://techwomen.no
 [8]: https://twitter.com/tannaznvr

@@ -33,7 +33,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 | 9:20  | Talk: _TBA_                                                                                       |
 | 9:40  | Talk: [Silje Ljosland Bakke][3]<br>_"What's the thing about Health IT?"_                          |
 | 10:00 | _Break_                                                                                           |
-| 10:10 | Talk: [{{ lorena.name }}][lorena] <em class="pronouns">({{ lorena.pronouns }})</em>                                       |
+| 10:10 | Talk: [{{ lorena.name }}][lorena] <em class="pronouns">({{ lorena.pronouns }})</em><br>_"The good and the ugly side of SOCMINT Forensics"_                                       |
 | 10:30 | Talk: [Marta Paciorkowska][5]                                                                     |
 | 10:50 | Talk: [Silje Lærk][6]<br>_"Klart og utydelig! Hvorfor klart budskap er så viktig for sikkerhet."_ |
 | 11:10 | _Break_                                                                                           |

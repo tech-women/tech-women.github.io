@@ -121,7 +121,11 @@ dd {
   margin-left: 0; }
 
 blockquote {
-  margin: 0 0 1rem; }
+  margin: 0 0 1rem;
+  border-left: 2px solid #ccc;
+  padding-left: 1rem;
+  color: #00000099;
+}
 
 dfn {
   font-style: italic; }

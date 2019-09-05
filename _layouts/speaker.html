@@ -9,22 +9,36 @@ layout: default
     <h2 class="font-weight-bold">
       {{ speaker.name }}
       <span class="small btn btn-outline-success btn-sm btn-round"
-        ><a target="_blank" href="https://twitter.com/{{ speaker.twitter }}">Follow</a></span
+        ><a target="_blank" href="https://twitter.com/{{ speaker.twitter }}"
+          >Follow</a
+        ></span
       >
     </h2>
-    <p class="pronouns">
-      Pronouns: <em>{{ speaker.pronouns }}</em>
-    </p>
+    <p class="pronouns">Pronouns: <em>{{ speaker.pronouns }}</em></p>
     {% if speaker.site %}
     <p><a href="{{ speaker.site }}">{{ speaker.site }}</a></p>
-    {% endif %}
-    {{ speaker.bio | markdownify }}
+    {% endif %} {{ speaker.bio | markdownify }}
 
-    <a target="_blank" href="https://twitter.com/{{ speaker.twitter }}">
-      <i class="fab fa-twitter text-muted" aria-hidden="true"></i>
-      @{{ speaker.twitter }}
-    </a>  &nbsp;
-
+    <p>
+      <a
+        target="_blank"
+        href="https://twitter.com/{{ speaker.twitter }}"
+        title="{{ speaker.name }} on Twitter"
+      >
+        <i class="fab fa-twitter text-muted" aria-hidden="true"></i>
+        @{{ speaker.twitter }} </a
+      ><br />
+      {% if speaker.linkedin %}
+      <a
+        target="_blank"
+        href="{{ speaker.linkedin }}"
+        title="{{ speaker.name }} on LinkedIn"
+      >
+        <i class="fab fa-linkedin text-muted" aria-hidden="true"></i>
+        LinkedIn </a
+      ><br />
+      {% endif %}
+    </p>
   </div>
   <div class="avatar">
     <img

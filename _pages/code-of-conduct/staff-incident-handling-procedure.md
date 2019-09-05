@@ -3,7 +3,7 @@ title: "Code of Conduct: Staff Procedure for Incident Handling"
 permalink: "/code-of-conduct/staff-incident-handling-procedure"
 ---
 
-Be sure to have a good understanding of our Code of Conduct, which can be found here: [Code of Conduct](/code-of-conduct/).
+Be sure to have a good understanding of our Code of Conduct, which can be found here: [Code of Conduct](/code-of-conduct).
 
 Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found [here](/code-of-conduct/attendee-incident-handling-procedure).
 

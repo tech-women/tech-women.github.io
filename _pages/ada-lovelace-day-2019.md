@@ -30,6 +30,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 {% assign siljel = site.data.speakers.siljel %}
 {% assign tannaznvr = site.data.speakers.tannaznvr %}
 {% assign siljelb = site.data.speakers.siljelb %}
+{% assign a_meba = site.data.speakers.a_meba %}
 
 | When  | What                                                                                                                                                            |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +40,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 | 9:40  | Talk: [{{ siljelb.name }}][siljelb] <em class="pronouns">({{ siljelb.pronouns }})</em><br>_"What's the thing about Health IT?"_                                 |
 | 10:00 | _Break_                                                                                                                                                         |
 | 10:10 | Talk: [{{ lorena.name }}][lorena] <em class="pronouns">({{ lorena.pronouns }})</em><br>_"The good and the ugly side of SOCMINT Forensics"_                      |
-| 10:30 | Talk: [Marta Paciorkowska][5]                                                                                                                                   |
+| 10:30 | Talk: [{{ a_meba.name }}][a_meba] <em class="pronouns">({{ a_meba.pronouns }})</em><br>_"From Ruby apps to large scale distributed systems: navigating technology as a self-taught outsider"_                                                                                                                                   |
 | 10:50 | Talk: [{{ siljel.name }}][siljel] <em class="pronouns">({{ siljel.pronouns }})</em><br>_"Klart og utydelig! Hvorfor klart budskap er så viktig for sikkerhet."_ |
 | 11:10 | _Break_                                                                                                                                                         |
 | 11:40 | Talk: [{{ tannaznvr.name }}][tannaznvr] <em class="pronouns">({{ tannaznvr.pronouns }})</em><br>_"DevOps in practice"_                                          |
@@ -50,5 +51,5 @@ _Note: The event is now full and new folks are being added to the waiting list._
 [siljelb]: {{site.baseurl}}/speakers/silje-ljosland-bakke
 [lorena]: {{site.baseurl}}/speakers/lorena-carthy
 [siljel]: {{site.baseurl}}/speakers/silje-lærk
-[5]: https://twitter.com/a_meba
+[a_meba]: {{site.baseurl}}/speakers/marta-paciorkowska
 [tannaznvr]: {{site.baseurl}}/speakers/tannaz-n-roshandel

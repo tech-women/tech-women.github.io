@@ -19,15 +19,36 @@ layout: default
     <p><a href="{{ speaker.site }}">{{ speaker.site }}</a></p>
     {% endif %} {{ speaker.bio | markdownify }}
 
+    <p><strong>More about {{ speaker.name }} on the web:</strong></p>
     <p>
+      {% if speaker.website %}
+      <a
+              target="_blank"
+              href="{{ speaker.website }}"
+              title="Website of {{ speaker.name }}"
+      >
+        <i class="fa fa-globe text-muted" aria-hidden="true"></i>
+        {{ speaker.website | replace: "https://" "" | replace: "http://" "" }} </a
+      ><br />
+      {% endif %}
       <a
         target="_blank"
         href="https://twitter.com/{{ speaker.twitter }}"
         title="{{ speaker.name }} on Twitter"
       >
         <i class="fab fa-twitter text-muted" aria-hidden="true"></i>
-        @{{ speaker.twitter }} </a
+        {{ speaker.twitter }} </a
       ><br />
+      {% if speaker.github %}
+      <a
+              target="_blank"
+              href="https://github.com/{{ speaker.github }}"
+              title="{{ speaker.name }} on GitHub"
+      >
+        <i class="fab fa-github text-muted" aria-hidden="true"></i>
+        {{ speaker.github }} </a
+      ><br />
+      {% endif %}
       {% if speaker.linkedin %}
       <a
         target="_blank"

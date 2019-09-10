@@ -1,0 +1,41 @@
+<p><strong>More about {{ include.profile.name }} on the web:</strong></p>
+<p>
+    {% if include.profile.website %}
+    <a
+            target="_blank"
+            href="{{ include.profile.website }}"
+            title="Website of {{ include.profile.name }}"
+    >
+        <i class="fa fa-globe text-muted" aria-hidden="true"></i>
+        {{ include.profile.website | replace: "https://" "" | replace: "http://" "" }} </a
+    ><br />
+    {% endif %}
+    <a
+            target="_blank"
+            href="https://twitter.com/{{ include.profile.twitter }}"
+            title="{{ include.profile.name }} on Twitter"
+    >
+        <i class="fab fa-twitter text-muted" aria-hidden="true"></i>
+        {{ include.profile.twitter }} </a
+    ><br />
+    {% if include.profile.github %}
+    <a
+            target="_blank"
+            href="https://github.com/{{ include.profile.github }}"
+            title="{{ include.profile.name }} on GitHub"
+    >
+        <i class="fab fa-github text-muted" aria-hidden="true"></i>
+        {{ include.profile.github }} </a
+    ><br />
+    {% endif %}
+    {% if include.profile.linkedin %}
+    <a
+            target="_blank"
+            href="{{ include.profile.linkedin }}"
+            title="{{ include.profile.name }} on LinkedIn"
+    >
+        <i class="fab fa-linkedin text-muted" aria-hidden="true"></i>
+        LinkedIn </a
+    ><br />
+    {% endif %}
+</p>

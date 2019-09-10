@@ -6,6 +6,8 @@ author: marte
 categories: [ profile ]
 image: assets/images/lotte_johansen.jpg
 tags: featured
+name: Lotte Johansen
+twitter: lotte_johansen
 ---
 Web accessibility has been a part of Norwegian law and regulations since 2013. With new updates to the legislation being set in motion this fall, accessibility is once again on the agenda.
 
@@ -34,3 +36,5 @@ and “Consents for GDPR”:
 <p><a href="https://vimeo.com/289663706">Dear User, Please Say Yes! : Lotte Johansen</a> from <a href="https://vimeo.com/javazone">JavaZone</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 However, this year she will be giving another talk on accessibility at JavaZone. Along with fellow accessibility enthusiasts from the «Web Accessibility» group at FINN.no, she will demonstrate how to navigate around real world constraints. The talk is based on five years of experience working with accessibility, and will present an interesting perspective on problem solving when facing challenges implementing web accessibility.
+
+{% include profile-links.html profile=page %}

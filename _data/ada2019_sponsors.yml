@@ -17,3 +17,13 @@
   url: https://boosterconf.no/
   role: Travel Sponsor
   logo: booster.svg
+
+- name: Dolittle AS
+  url: https://dolittle.com/
+  role: Sticker Sponsor
+  logo: dolittle.svg
+
+- name: TurtleSec AS
+  url: https://turtlesec.no/
+  role: Gold Sponsor
+  logo: turtlesec.svg

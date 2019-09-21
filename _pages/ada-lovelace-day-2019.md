@@ -60,7 +60,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 The 2019 Tech Women Norway Role Models are selected by:
 
 - [Alexandra Leisse](https://twitter.com/troubalex) ([VIBBIO](https://www.vibbio.com/))
-- [Audun Strand](https://twitter.com/audunstrand) ([NAV](https://www.nav.no/))
+- [Audun Fauchald Strand](https://twitter.com/audunstrand) ([NAV](https://www.nav.no/))
 - [Geir Aasen](https://twitter.com/geiraasen) ([EL & IT forbundet](https://elogit.no/))
 - [Jemmima Knight](https://twitter.com/jemm1ma) ([Sanity.io](https://www.sanity.io/))
 - [Johannes Dvorak Lagos](https://twitter.com/johanneslagos) ([Bouvet](https://www.bouvet.no/))

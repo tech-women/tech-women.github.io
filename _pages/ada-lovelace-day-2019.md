@@ -17,6 +17,8 @@ All attendees of our events are required to agree with our [Code of Conduct](/co
 > Please use [this form](https://forms.gle/jCMJEj5HcTzs5p8JA) to propose Tech Role Models.
 >
 > <a href="https://forms.gle/jCMJEj5HcTzs5p8JA" target="_blank" class="btn btn-dark">Nominate a Role Model!</a>
+>
+> We will close the nomination form on the 24th of September 2019.
 
 ## Registration
 

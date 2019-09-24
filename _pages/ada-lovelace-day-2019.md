@@ -63,7 +63,7 @@ The 2019 Tech Women Norway Role Models are selected by:
 
 - [Alexandra Leisse](https://twitter.com/troubalex) ([VIBBIO](https://www.vibbio.com/))
 - [Audun Fauchald Strand](https://twitter.com/audunstrand) ([NAV](https://www.nav.no/))
-- [Geir Aasen](https://twitter.com/geiraasen) ([EL & IT forbundet](https://elogit.no/))
+- [Geir Aasen](https://twitter.com/geiraasen) ([EL og IT Forbundet](https://elogit.no/))
 - [Jemmima Knight](https://twitter.com/jemm1ma) ([Sanity.io](https://www.sanity.io/))
 - [Johannes Dvorak Lagos](https://twitter.com/johanneslagos) ([Bouvet](https://www.bouvet.no/))
 - [Patricia Aas](https://twitter.com/pati_gallardo) ([TurtleSec](https://turtlesec.no/))

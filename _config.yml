@@ -49,6 +49,14 @@ authors:
       email:
       twitter:        https://twitter.com/Marte_Helene
 
+    trud:
+      name:           trud
+      site:           
+      avatar:         assets/images/trud-antzee.jpg
+      bio:            "Programming and data visualisation"
+      email:
+      twitter:        https://twitter.com/Antzee_
+
 # Defaults
 defaults:
 

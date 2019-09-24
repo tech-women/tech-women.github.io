@@ -1,0 +1,23 @@
+div.logo.dark .background {
+    fill: #000000 !important;
+}
+
+div.logo.dark .keyword {
+    fill: #9A5529 !important;
+}
+
+div.logo.dark .value {
+    fill: #D8AC88 !important;
+}
+
+div.logo.dark .token {
+    fill: #DCC3AF !important;
+}
+
+div.logo.dark .resource {
+    fill: #EF9F68 !important;
+}
+
+div.logo.dark .id {
+    fill: #C14119 !important;
+}

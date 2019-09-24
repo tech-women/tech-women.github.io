@@ -4,10 +4,9 @@ layout: default
 permalink: "/logos"
 ---
 
-<div class="container">
+<div class="container logos">
     <div class="row justify-content-center">
-        <div class="col-md-8">
-            <h1>Logos</h1>
+        <div class="col-md-3">
             <h2>Default</h2>
             <div class="logo">
                 {% include logo.svg %}
@@ -16,6 +15,72 @@ permalink: "/logos"
             <div class="logo dark">
                 {% include logo.svg %}
             </div>
+
+        </div>
+        <div class="col-md-3">
+            <h2>Pink</h2>
+            <div class="logo pink">
+                {% include logo.svg %}
+            </div>
+            <h2>Pride</h2>
+            <div class="logo pride">
+                {% include logo.svg %}
+            </div>
+
+        </div>
+        <div class="col-md-3">
+            <h2>Punk</h2>
+            <div class="logo punk">
+                {% include logo.svg %}
+            </div>
+            <h2>Trans (Black)</h2>
+            <div class="logo trans-black">
+                {% include logo.svg %}
+            </div>
+
+        </div>
+        <div class="col-md-3">
+            <h2>Random</h2>
+            <div class="logo random">
+                {% include logo.svg %}
+            </div>
+            <h2>Trans (Blue)</h2>
+            <div class="logo trans-blue">
+                {% include logo.svg %}
+            </div>
         </div>
     </div>
 </div>
+<script type="text/javascript">
+    const randomColor = () => '#'+Math.floor(Math.random()*16777215).toString(16);
+    window.onload = () => {
+		var element = document.createElement('style'),
+			sheet;
+		document.head.appendChild(element);
+		sheet = element.sheet;
+		sheet.insertRule(`
+		div.logo.random .background {
+            fill: ${randomColor()} !important;
+        }`, 0);
+		sheet.insertRule(`div.logo.random .keyword {
+            fill: ${randomColor()} !important;
+        }`, 1);
+
+        sheet.insertRule(`div.logo.random .value {
+            fill: ${randomColor()} !important;
+        }`, 2);
+
+        sheet.insertRule(`div.logo.random .token {
+            fill: ${randomColor()} !important;
+        }`, 3);
+
+        sheet.insertRule(`div.logo.random .resource {
+            fill: ${randomColor()} !important;
+        }`, 4);
+
+        sheet.insertRule(`div.logo.random .id {
+            fill: ${randomColor()} !important;
+        }
+		`, 5);
+    }
+</script>

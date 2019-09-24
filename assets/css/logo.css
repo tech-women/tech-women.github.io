@@ -1,3 +1,13 @@
+div.logo svg {
+    width: 100%;
+    height: auto;
+}
+div.container.logos h2 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+/* Dark variant */
 div.logo.dark .background {
     fill: #000000 !important;
 }
@@ -20,4 +30,129 @@ div.logo.dark .resource {
 
 div.logo.dark .id {
     fill: #C14119 !important;
+}
+
+/* pink variant */
+div.logo.pink .background {
+    fill: #F9D8ED !important;
+}
+
+div.logo.pink .keyword {
+    fill: #8BBCFC !important;
+}
+
+div.logo.pink .value {
+    fill: #FF1ECA !important;
+}
+
+div.logo.pink .token {
+    fill: #4261BF !important;
+}
+
+div.logo.pink .resource {
+    fill: #9E7CFF !important;
+}
+
+div.logo.pink .id {
+    fill: #D817FF !important;
+}
+
+/* pride variant */
+div.logo.pride .background {
+    fill: #4C006B !important;
+}
+
+div.logo.pride .keyword {
+    fill: #2FA03A !important;
+}
+
+div.logo.pride .value {
+    fill: #FFE327 !important;
+}
+
+div.logo.pride .token {
+    fill: #FFA500 !important;
+}
+
+div.logo.pride .resource {
+    fill: #FF0000 !important;
+}
+
+div.logo.pride .id {
+    fill: #4792EF !important;
+}
+
+/* punk variant */
+div.logo.punk .background {
+    fill: #781E7C !important;
+}
+
+div.logo.punk .keyword {
+    fill: #0BFF81 !important;
+}
+
+div.logo.punk .value {
+    fill: #FC27FF !important;
+}
+
+div.logo.punk .token {
+    fill: #F3FF37 !important;
+}
+
+div.logo.punk .resource {
+    fill: #37C9FF !important;
+}
+
+div.logo.punk .id {
+    fill: #37C9FF !important;
+}
+
+/* trans-black variant */
+div.logo.trans-black .background {
+    fill: #000000 !important;
+}
+
+div.logo.trans-black .keyword {
+    fill: #5CCFFC !important;
+}
+
+div.logo.trans-black .value {
+    fill: #F8ABBB !important;
+}
+
+div.logo.trans-black .token {
+    fill: #FFFFFF !important;
+}
+
+div.logo.trans-black .resource {
+    fill: #FFFFFF !important;
+}
+
+div.logo.trans-black .id {
+    fill: #F5A9B8 !important;
+}
+
+/* trans-blue variant */
+div.logo.trans-blue .background {
+    fill: #83CFEC !important;
+}
+
+div.logo.trans-blue .keyword {
+    fill: #FFC0CB !important;
+}
+
+div.logo.trans-blue .value {
+    fill: #FFFFFF !important;
+}
+
+div.logo.trans-blue .token {
+    fill: #FFFFFF !important;
+}
+
+div.logo.trans-blue .resource {
+    fill: #FFC0CB !important;
+}
+
+div.logo.trans-blue .id {
+    fill: #FFC0CB !important;
 }

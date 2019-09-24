@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating the Tech Women Norway Logo"
 description: "Using the logo code as the logo"
-author: patricia
+author: trud
 categories: [ profile ]
 image: assets/images/trud-antzee.jpg
 tags: featured

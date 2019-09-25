@@ -4,6 +4,56 @@ layout: default
 permalink: "/logos"
 ---
 
+<style id="randomLogoStyle" type="text/css"></style>
+<style type="text/css">
+    div.logo.random {
+        text-align: center;
+        position: relative;
+    }
+    div.logo.random span {
+        position: absolute;
+        top: 50%;
+        width: 50%;
+        left: 25%;
+        user-select: none;
+    }
+</style>
+<script type="text/javascript">
+    const randomColor = () => '#'+Math.floor(Math.random()*16777215).toString(16);
+    const randomLogo = () => {
+        const sheet = document.getElementById('randomLogoStyle').sheet
+        for (let i=0; i < sheet.rules.length; i++) {
+            sheet.deleteRule(i)
+        }
+        sheet.insertRule(`
+		div.logo.random .background {
+            fill: ${randomColor()} !important;
+        }`, 0);
+        sheet.insertRule(`div.logo.random .keyword {
+            fill: ${randomColor()} !important;
+        }`, 1);
+
+        sheet.insertRule(`div.logo.random .value {
+            fill: ${randomColor()} !important;
+        }`, 2);
+
+        sheet.insertRule(`div.logo.random .token {
+            fill: ${randomColor()} !important;
+        }`, 3);
+
+        sheet.insertRule(`div.logo.random .resource {
+            fill: ${randomColor()} !important;
+        }`, 4);
+
+        sheet.insertRule(`div.logo.random .id {
+            fill: ${randomColor()} !important;
+        }
+		`, 5);
+    }
+    window.onload = () => {
+        randomLogo()
+    }
+</script>
 <div class="container logos">
     <div class="row justify-content-center">
         <div class="col-md-3">
@@ -41,7 +91,8 @@ permalink: "/logos"
         </div>
         <div class="col-md-3">
             <h2>Random</h2>
-            <div class="logo random">
+            <div class="logo random" onclick="randomLogo()">
+                <span>Click me!</span>
                 {% include logo.svg %}
             </div>
             <h2>Trans (Blue)</h2>
@@ -51,36 +102,3 @@ permalink: "/logos"
         </div>
     </div>
 </div>
-<script type="text/javascript">
-    const randomColor = () => '#'+Math.floor(Math.random()*16777215).toString(16);
-    window.onload = () => {
-		var element = document.createElement('style'),
-			sheet;
-		document.head.appendChild(element);
-		sheet = element.sheet;
-		sheet.insertRule(`
-		div.logo.random .background {
-            fill: ${randomColor()} !important;
-        }`, 0);
-		sheet.insertRule(`div.logo.random .keyword {
-            fill: ${randomColor()} !important;
-        }`, 1);
-
-        sheet.insertRule(`div.logo.random .value {
-            fill: ${randomColor()} !important;
-        }`, 2);
-
-        sheet.insertRule(`div.logo.random .token {
-            fill: ${randomColor()} !important;
-        }`, 3);
-
-        sheet.insertRule(`div.logo.random .resource {
-            fill: ${randomColor()} !important;
-        }`, 4);
-
-        sheet.insertRule(`div.logo.random .id {
-            fill: ${randomColor()} !important;
-        }
-		`, 5);
-    }
-</script>

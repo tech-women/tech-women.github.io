@@ -13,13 +13,6 @@ During the conference 8 women will give hands-on talks about their work and fiel
 
 All attendees of our events are required to agree with our [Code of Conduct](/code-of-conduct). This Code of Conduct applies not only to our events but to all digital spaces that are operated by us, such as GitHub.
 
-> Nominations for the Role Models list are open!
-> Please use [this form](https://forms.gle/jCMJEj5HcTzs5p8JA) to propose Tech Role Models.
->
-> <a href="https://forms.gle/jCMJEj5HcTzs5p8JA" target="_blank" class="btn btn-dark">Nominate a Role Model!</a>
->
-> We will close the nomination form on the 24th of September 2019.
-
 ## Registration
 
 <a href="https://www.meetup.com/Tech-Women-Norway/events/264108718/" class="btn btn-dark">Register here</a>

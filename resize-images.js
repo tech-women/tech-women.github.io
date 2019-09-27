@@ -49,7 +49,7 @@ images
           console.log(
             chalk.cyan(`[${size}] thumbnail for ${localizedFile} exists`)
           )
-        } catch {
+        } catch (_) {
           image.identify((err, ident) => {
             if (err) {
               console.error(chalk.red(err))

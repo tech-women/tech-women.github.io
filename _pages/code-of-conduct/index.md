@@ -37,8 +37,8 @@ If a participant engages in behavior that violates this Code of Conduct, the con
 
 ##### Procedure for Handling Harassment
 
-- [Attendee Procedure for incident handling](attendee-incident-handling-procedure.html)
-- [Staff Procedure for incident handling](staff-incident-handling-procedure.html)
+- [Attendee Procedure for incident handling](./attendee-incident-handling-procedure)
+- [Staff Procedure for incident handling](./staff-incident-handling-procedure)
 
 #### Contact Information
 

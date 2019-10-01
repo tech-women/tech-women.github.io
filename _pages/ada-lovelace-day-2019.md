@@ -28,6 +28,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 {% assign a_meba = site.data.speakers.a_meba %}
 {% assign ChristinGorman = site.data.speakers.ChristinGorman %}
 {% assign maritio_o = site.data.speakers.maritio_o %}
+{% assign mulmbot = site.data.speakers.mulmbot %}
 
 | When  | What                                                                                                                                            |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +41,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 | 10:30 | Talk: [{{ a_meba.name }}][a_meba] <em class="pronouns">({{ a_meba.pronouns }})</em><br>_"{{ a_meba.talk }}"_                                    |
 | 10:50 | Talk: [{{ siljel.name }}][siljel] <em class="pronouns">({{ siljel.pronouns }})</em><br>_"{{ siljel.talk }}"_                                    |
 | 11:10 | _Break_                                                                                                                                         |
-| 11:20 | Talk: _TBA_                                                                                                                                     |
+| 11:20 | Talk: [{{ mulmbot.name }}][mulmbot] <em class="pronouns">({{ mulmbot.pronouns }})</em><br>_"{{ mulmbot.talk }}"_                                |
 | 11:40 | Talk: [{{ tannaznvr.name }}][tannaznvr] <em class="pronouns">({{ tannaznvr.pronouns }})</em><br>_"{{ tannaznvr.talk }}"_                        |
 | 12:00 | Presentation of the 2019 _List of Role Models_                                                                                                  |
 | 12:20 | _Lunch_                                                                                                                                         |
@@ -52,6 +53,7 @@ _Note: The event is now full and new folks are being added to the waiting list._
 [a_meba]: {{site.baseurl}}/speakers/marta-paciorkowska
 [tannaznvr]: {{site.baseurl}}/speakers/tannaz-n-roshandel
 [maritio_o]: {{site.baseurl}}/speakers/marit-iren-rognli-tokle
+[mulmbot]: {{site.baseurl}}/speakers/rikke-jansen
 
 ## Jury
 

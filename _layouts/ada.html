@@ -5,19 +5,24 @@ layout: default
 <div class="container ada">
   <div class="row">
     <div class="col-md-8">
+      <div class="d-flex justify-content-center d-md-none logo">
+        <a href="{{site.baseurl}}/trud-antzee-logo-design/">
+          <img src="{{site.baseurl}}/assets/logo/punk.svg">
+        </a>
+      </div>
       <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
       <div class="page-content">
         {{ content }}
       </div>
     </div>
     <div class="col-md-4">
-      <div class="d-none d-sm-inline-block logo punk">
+      <div class="d-none d-md-inline-block logo">
         <a href="{{site.baseurl}}/trud-antzee-logo-design/">
-          {% include logo.svg %}
+          <img src="{{site.baseurl}}/assets/logo/punk.svg">
         </a>
       </div>
 
-      <h4>Sponsors</h4>
+      <h3>Sponsors</h3>
 
       <p>This event is made possible with support from these sponsors.</p>
 

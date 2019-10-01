@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Linda Sandvik co-founded the UK-based Code Club"
+title: "Linda Sandvik co-founded the UK-based Code Club"
 description: "Goal: 'Changing the world'"
 author: patricia
-categories: [ profile ]
+categories: [profile]
 image: assets/images/linda_sandvik.jpg
 tags: featured
 ---

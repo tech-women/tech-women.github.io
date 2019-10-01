@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Lotte Johansen, improving UX for everyone with web accessibility"
+title: "Lotte Johansen, improving UX for everyone with web accessibility"
 description: "Headed the effort for which FINN.no was awarded the DOGA award for «Interaction Design and Digital Solutions» in 2017"
 author: marte
-categories: [ profile ]
+categories: [profile]
 image: assets/images/lotte_johansen.jpg
 tags: featured
 name: Lotte Johansen
 twitter: lotte_johansen
 ---
+
 Web accessibility has been a part of Norwegian law and regulations since 2013. With new updates to the legislation being set in motion this fall, accessibility is once again on the agenda.
 
 Lotte Johansen, a senior backend developer at FINN.no, has been deeply dedicated to web accessibility for many years now, sharing her knowledge as a speaker at numerous conferences. She also headed the effort for which FINN.no was awarded the DOGA award for «Interaction Design and Digital Solutions» in 2017.
@@ -26,7 +27,7 @@ Lotte is an experienced speaker, with conferences like CSUN, JavaZone, microXchg
 <iframe src="https://player.vimeo.com/video/138863970?color=ff9933&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/138863970">Universell utforming for alle! - Lotte Johansen</a> from <a href="https://vimeo.com/javazone">JavaZone</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-She has given talks on other subjects, like “Testing in Distributed Systems” 
+She has given talks on other subjects, like “Testing in Distributed Systems”
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cmJfMnGK-r0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

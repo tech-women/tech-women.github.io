@@ -4,9 +4,11 @@
   "description": "Helper scripts techwomen.no",
   "scripts": {
     "resize-images": "node .github/workflows/resize-images.js",
-    "lint:fix": "standard --fix"
+    "lint:fix": "standard --fix",
+    "prettify": "prettier --write ./**/*.md"
   },
   "devDependencies": {
+    "prettier": "^1.18.2",
     "standard": "^14.1.0"
   },
   "dependencies": {

@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Runa Sandvik applies security to the world of journalism"
+title: "Runa Sandvik applies security to the world of journalism"
 description: "With a side of rifle hacking"
 author: patricia
-categories: [ profile ]
+categories: [profile]
 image: assets/images/street-2547628_1920.jpg
 tags: featured
 ---
+
 [Runa Sandvik][3] is Senior Director of Information Security at The New York Times, where she has been 3.5 years. Even before this impressive role she had contributed professionally both nationally and internationally in the field that intersects journalism and information security. A field that has received increasing attention after the Snowden incident, where journalism took center stage in revealing mass-surveillance. She has been a strong proponent of Signal, and for the last year and a half has served as a board member on the The Signals Foundation board.
 
 Runa is highly respected internationally in the security field and is on the [Black Hat Europe review board][4] and serves as a technical advisor to the Freedom of the Press Foundation.

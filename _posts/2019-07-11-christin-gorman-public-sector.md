@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "Christin Gorman, the voice of reason in the public sector digitization process"
+title: "Christin Gorman, the voice of reason in the public sector digitization process"
 description: "One of Norways most popular speakers"
 author: patricia
-categories: [ profile ]
+categories: [profile]
 image: assets/images/christin_gorman.jpg
 tags: featured
 ---
-Having coded for more than two decades, [Christin Gorman][5] today works as a programmer at Kodemaker, where she’s been for the last 3.5 years. Gorman became known in the Norwegian Java community for her epic talks at JavaZone where [3 out of the top 12 talks of all time][1] are hers. 
+
+Having coded for more than two decades, [Christin Gorman][5] today works as a programmer at Kodemaker, where she’s been for the last 3.5 years. Gorman became known in the Norwegian Java community for her epic talks at JavaZone where [3 out of the top 12 talks of all time][1] are hers.
 
 She started her post-graduate career in the oil sector, after graduating with her Masters from the University of Aberdeen in Scotland in 2003. After a feeling of cognitive dissonance between her belief in environmental protection and her work in the oil sector, she moved over to the booming consultancy industry in Oslo. At the time many large consultancy companies were competing to build, and building, the next generation public sector under a process governed by calls for bids and largely fixed price contracts.
 
-Here she saw, together with so many others, a process that was not only flawed, but fundamentally broken. She decided to try to build public sector from the inside, at Husbanken, but the cracks in the process were only just showing, and she moved back to the private sector to Kodemaker. 
+Here she saw, together with so many others, a process that was not only flawed, but fundamentally broken. She decided to try to build public sector from the inside, at Husbanken, but the cracks in the process were only just showing, and she moved back to the private sector to Kodemaker.
 
 She has continued to speak, however, on the topic of software development for the public sector both in [written form][4] and on stage. And has over time become the voice of reason in the public sector digitization process. Her talk at Trondheim DC 2016 entitled [“OFFENTLIG IT V2.0”][8] is a must see.
 

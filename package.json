@@ -2,21 +2,12 @@
   "name": "tech-women.github.io",
   "version": "0.0.0-development",
   "description": "Helper scripts techwomen.no",
+  "scripts": {
+    "resize-images": "node .github/workflows/resize-images.js",
+    "lint:fix": "standard --fix"
+  },
   "devDependencies": {
-    "husky": "^3.0.5",
-    "lint-staged": "^9.2.5",
     "standard": "^14.1.0"
-  },
-  "lint-staged": {
-    "*.js": [
-      "standard --fix",
-      "git add"
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   },
   "dependencies": {
     "chalk": "^2.4.2",

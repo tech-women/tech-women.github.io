@@ -18,6 +18,11 @@
     {%- endcapture -%}
     {%- assign _page_title = _page_title | escape -%}
     {%- assign _page_description = page.description | default: site.description | default: _page_title | escape -%}
+    {% if page.speaker %}
+    {%- capture _page_description -%}
+    {{ speaker.name }} speaks at Tech Woman Norway's Ada Lovelace Day
+    {%- endcapture -%}
+    {% endif %}
     {%- assign _page_image = page.image | default: site.logo | escape -%}
 
     <!-- Twitter Card -->

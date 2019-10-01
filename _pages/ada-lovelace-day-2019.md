@@ -27,29 +27,31 @@ _Note: The event is now full and new folks are being added to the waiting list._
 {% assign siljelb = site.data.speakers.siljelb %}
 {% assign a_meba = site.data.speakers.a_meba %}
 {% assign ChristinGorman = site.data.speakers.ChristinGorman %}
+{% assign maritio_o = site.data.speakers.maritio_o %}
 
-| When  | What                                                                                                                                                            |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8:20  | breakfast &amp; mingling                                                                                                                                        |
-| 9:00  | Keynote: [{{ ChristinGorman.name }}][ChristinGorman] <em class="pronouns">({{ ChristinGorman.pronouns }})</em><br>_"{{ ChristinGorman.talk }}"_                                                                  |
-| 9:20  | Talk: _TBA_                                                                                                                                                     |
-| 9:40  | Talk: [{{ siljelb.name }}][siljelb] <em class="pronouns">({{ siljelb.pronouns }})</em><br>_"{{ siljelb.talk }}"_                                 |
-| 10:00 | _Break_                                                                                                                                                         |
-| 10:10 | Talk: [{{ lorena.name }}][lorena] <em class="pronouns">({{ lorena.pronouns }})</em><br>_"{{ lorena.talk }}"_                      |
-| 10:30 | Talk: [{{ a_meba.name }}][a_meba] <em class="pronouns">({{ a_meba.pronouns }})</em><br>_"{{ a_meba.talk }}"_                                                                                                                                   |
-| 10:50 | Talk: [{{ siljel.name }}][siljel] <em class="pronouns">({{ siljel.pronouns }})</em><br>_"{{ siljel.talk }}"_ |
-| 11:10 | _Break_                                                                                                                                                         |
-| 11:20  | Talk: _TBA_                                                                                                                                                     |
-| 11:40 | Talk: [{{ tannaznvr.name }}][tannaznvr] <em class="pronouns">({{ tannaznvr.pronouns }})</em><br>_"{{ tannaznvr.talk }}"_                                          |
-| 12:00 | Presentation of the 2019 _List of Role Models_                                                                                                                  |
-| 12:20 | _Lunch_                                                                                                                                                         |
+| When  | What                                                                                                                                            |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8:20  | breakfast &amp; mingling                                                                                                                        |
+| 9:00  | Keynote: [{{ ChristinGorman.name }}][christingorman] <em class="pronouns">({{ ChristinGorman.pronouns }})</em><br>_"{{ ChristinGorman.talk }}"_ |
+| 9:20  | Talk: [{{ maritio_o.name }}][maritio_o] <em class="pronouns">({{ maritio_o.pronouns }})</em><br>_"{{ maritio_o.talk }}"_                        |
+| 9:40  | Talk: [{{ siljelb.name }}][siljelb] <em class="pronouns">({{ siljelb.pronouns }})</em><br>_"{{ siljelb.talk }}"_                                |
+| 10:00 | _Break_                                                                                                                                         |
+| 10:10 | Talk: [{{ lorena.name }}][lorena] <em class="pronouns">({{ lorena.pronouns }})</em><br>_"{{ lorena.talk }}"_                                    |
+| 10:30 | Talk: [{{ a_meba.name }}][a_meba] <em class="pronouns">({{ a_meba.pronouns }})</em><br>_"{{ a_meba.talk }}"_                                    |
+| 10:50 | Talk: [{{ siljel.name }}][siljel] <em class="pronouns">({{ siljel.pronouns }})</em><br>_"{{ siljel.talk }}"_                                    |
+| 11:10 | _Break_                                                                                                                                         |
+| 11:20 | Talk: _TBA_                                                                                                                                     |
+| 11:40 | Talk: [{{ tannaznvr.name }}][tannaznvr] <em class="pronouns">({{ tannaznvr.pronouns }})</em><br>_"{{ tannaznvr.talk }}"_                        |
+| 12:00 | Presentation of the 2019 _List of Role Models_                                                                                                  |
+| 12:20 | _Lunch_                                                                                                                                         |
 
-[ChristinGorman]: {{site.baseurl}}/christin-gorman-public-sector/
+[christingorman]: {{site.baseurl}}/christin-gorman-public-sector/
 [siljelb]: {{site.baseurl}}/speakers/silje-ljosland-bakke
 [lorena]: {{site.baseurl}}/speakers/lorena-carthy
 [siljel]: {{site.baseurl}}/speakers/silje-lærk
 [a_meba]: {{site.baseurl}}/speakers/marta-paciorkowska
 [tannaznvr]: {{site.baseurl}}/speakers/tannaz-n-roshandel
+[maritio_o]: {{site.baseurl}}/speakers/marit-iren-rognli-tokle
 
 ## Jury
 

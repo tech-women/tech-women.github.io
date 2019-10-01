@@ -5,7 +5,7 @@
   "scripts": {
     "resize-images": "node .github/workflows/resize-images.js",
     "lint:fix": "standard --fix",
-    "prettify": "prettier --write ./**/*.md"
+    "prettify": "prettier --write ./**/*.{md,yml}"
   },
   "devDependencies": {
     "prettier": "^1.18.2",

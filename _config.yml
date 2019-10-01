@@ -1,65 +1,61 @@
-
 # Site
-name: 'Tech Women Norway'
-description: 'Event to celebrate women working handson in tech'
-favicon: 'assets/images/favicon.ico'
-logo: 'assets/logo/business.svg'
-baseurl: ''
+name: "Tech Women Norway"
+description: "Event to celebrate women working handson in tech"
+favicon: "assets/images/favicon.ico"
+logo: "assets/logo/business.svg"
+baseurl: ""
 #disqus: 'demowebsite'
 twitter: https://twitter.com/techwomennorway
 meetup: https://www.meetup.com/Tech-Women-Norway/
 github: https://github.com/tech-women
-email: 'techwomen.no@gmail.com'
+email: "techwomen.no@gmail.com"
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
-    patricia:
-      name:           Patricia
-      site:           https://patricia.no
-      avatar:         assets/images/patricia.jpg
-      bio:            "C++ Programmer and trainer"
-      email:          psmaas@gmail.com
-      twitter:        https://twitter.com/pati_gallardo
+  patricia:
+    name: Patricia
+    site: https://patricia.no
+    avatar: assets/images/patricia.jpg
+    bio: "C++ Programmer and trainer"
+    email: psmaas@gmail.com
+    twitter: https://twitter.com/pati_gallardo
 
+  winifred:
+    name: Winifred
+    site: https://winifredburton.com
+    avatar: assets/images/winifred.jpg
+    bio: "Writer and QA"
+    email:
+    twitter: https://twitter.com/winnaburto
 
-    winifred:
-      name:           Winifred
-      site:           https://winifredburton.com
-      avatar:         assets/images/winifred.jpg
-      bio:            "Writer and QA"
-      email:
-      twitter:        https://twitter.com/winnaburto
+  marte:
+    name: marte
+    site:
+    avatar: assets/images/marte.jpg
+    bio: "Programmer and search nerd"
+    email:
+    twitter: https://twitter.com/Marte_Helene
 
-
-    marte:
-      name:           marte
-      site:           
-      avatar:         assets/images/marte.jpg
-      bio:            "Programmer and search nerd"
-      email:
-      twitter:        https://twitter.com/Marte_Helene
-
-    trud:
-      name:           trud
-      site:           
-      avatar:         assets/images/trud-antzee.jpg
-      bio:            "Programming and data visualisation"
-      email:
-      twitter:        https://twitter.com/Antzee_
+  trud:
+    name: trud
+    site:
+    avatar: assets/images/trud-antzee.jpg
+    bio: "Programming and data visualisation"
+    email:
+    twitter: https://twitter.com/Antzee_
 
 # Defaults
 defaults:
-
   # all posts
   - scope:
       path: "_posts"
@@ -67,13 +63,13 @@ defaults:
       layout: post
       author: patricia
       avatar: /assets/images/patricia.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -81,7 +77,13 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
-
-
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:
+  [
+    README.markdown,
+    package.json,
+    grunt.js,
+    Gruntfile.js,
+    Gruntfile.coffee,
+    node_modules,
+  ]

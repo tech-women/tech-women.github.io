@@ -4,7 +4,8 @@ benedicte_raae:
   pronouns: she/her
   twitter: raae
   linkedin: https://www.linkedin.com/in/benedicteraae/
-  website:
+  website: https://www.raae.codes/
+  press: https://www.kode24.no/koden-bak/benedicte-lager-egen-gatsby-plugin/71113920
   github:
   slug: benedicte-raae
   short_bio: Contractor, Lilly Labs
@@ -19,7 +20,8 @@ christin_gorman:
   pronouns: she/her
   twitter: ChristinGorman
   linkedin: https://www.linkedin.com/in/christin-gorman-2321aa1/
-  website:
+  website: https://kranglefant.tumblr.com/
+  press: https://www.kode24.no/ukas-koder/snart-begynner-jeg-a-klappe-til-folk/71561721
   github:
   slug: christin-gorman
   short_bio: Programmer, Kodemaker
@@ -34,7 +36,8 @@ karianne_berg:
   pronouns: she/her
   twitter: karianneberg
   linkedin: https://www.linkedin.com/in/kberg/
-  website:
+  website: http://rubynor.com/
+  press:
   github:
   slug: karianne-berg
   short_bio: CEO & Developer, Rubynor
@@ -46,7 +49,8 @@ kristina_simakova:
   pronouns:
   twitter: KristiSimakova
   linkedin: https://www.linkedin.com/in/ksimakova/
-  website:
+  website: https://creativetech.blog/
+  press:
   github:
   slug: kristina-simakova
   short_bio: Senior Software Engineer, Reality Lab
@@ -59,6 +63,7 @@ lotte_johansen:
   twitter: lotte_johansen
   linkedin: https://www.linkedin.com/in/lotte-johansen-7269561/
   website:
+  press: https://www.kode24.no/ukas-koder/jeg-vil-vaere-en-rollemodell-for-jenter/71488988
   github:
   slug: lotte-johansen
   short_bio: Senior Systems Developer, FINN.no
@@ -70,7 +75,8 @@ marit_iren_rognli_tokle:
   pronouns: she/her
   twitter: maritio_o
   linkedin: https://www.linkedin.com/in/marit-iren-rognli-tokle-058a81139/
-  website:
+  website: https://19.tghack.no/
+  press: https://www.digi.no/artikler/konkurrerer-helt-i-toppen-av-sikkerhets-konkurranse/455700
   github:
   slug: marit-iren-rognli-tokle
   short_bio: Senior Software Engineer, Sopra Steria
@@ -82,7 +88,8 @@ catharina_boehler:
   pronouns:
   twitter: CathInShadow
   linkedin: https://www.linkedin.com/in/catharina-bøhler-6a3ab822
-  website:
+  website: https://sareptastudio.com/
+  press: https://www.gamer.no/artikler/catharina-bohler-hedres-med-plass-i-hall-of-fame-for-women-in-games/473891
   github:
   slug: catharina-boehler
   short_bio: CEO & Game Designer, Sarepta Studio
@@ -95,6 +102,7 @@ hanne_lohne_try:
   twitter: hannetry
   linkedin: https://www.linkedin.com/in/hannetry/
   website:
+  press: https://www.kode24.no/ukas-koder/skriver-vipps-pa-nytt-med-kotlin/70530606
   github:
   slug: hanne-lohne-try
   short_bio: Developer, Shortcut
@@ -106,7 +114,8 @@ ida_jaklin_johansen:
   pronouns:
   twitter:
   linkedin: https://www.linkedin.com/in/ida-jaklin-johansen-a68b416a
-  website:
+  website: 
+  press: https://www.itromso.no/meninger/2018/03/08/%C2%ABKan-vi-akseptere-at-v%C3%A5r-viktigste-fremtidsn%C3%A6ring-er-helt-mannsdominert%C2%BB-16232198.ece
   github:
   slug: ida-jaklin-johansen
   short_bio: CEO & Founder, Adisoa
@@ -119,6 +128,7 @@ ingeborg_ytrehus:
   twitter:
   linkedin: https://www.linkedin.com/in/ingeborgytrehus/
   website:
+  press: https://www.evry.com/no/om-evry/media/nyheter/2019/03/norge-skriker-etter-flere-sikkerhetseksperter.-du-kan-bli-en-av-dem/
   github:
   slug: ingeborg-ytrehus
   short_bio: Security Analyst, BDO Cybersecurity
@@ -130,7 +140,8 @@ tone_nordboe:
   pronouns: she/her
   twitter: tonenordbo
   linkedin: https://www.linkedin.com/in/tonenordbo
-  website:
+  website: https://www.tonenordbo.no/
+  press: https://shifter.no/forfatter-til-forte-tone-nordbo-er-ny-kreativ-leder/
   github:
   slug: tone-nordboe
   short_bio: Lecturer and Indepentent Consultant
@@ -143,6 +154,7 @@ bodil_stokke:
   twitter: bodil
   linkedin: https://www.linkedin.com/in/bodilstokke/
   website:
+  press:
   github:
   slug: bodil-stokke
   short_bio: Computer Programmer, SINOPIA OLIVE LIMITED
@@ -155,6 +167,7 @@ karina_oeverland_haugen:
   twitter: karina_haugen
   linkedin: https://www.linkedin.com/in/karinahaugen/
   website:
+  press:
   github:
   slug: karina-oeverland-haugen
   short_bio: Integrasjonsarkitekt, Helse Vest IKT
@@ -167,6 +180,7 @@ lene_droesdal:
   twitter: ldrosdal
   linkedin: https://www.linkedin.com/in/ldrosdal/
   website:
+  press:
   github:
   slug: lene-droesdal
   short_bio: PhD, Senior Data Scientist, DNB
@@ -178,7 +192,8 @@ silje_laerk:
   pronouns: she/her
   twitter: siljel
   linkedin: https://www.linkedin.com/in/siljelaerk/
-  website:
+  website: https://www.enthusiasmsuitsyou.com/
+  press: https://techwomen.no/speakers/silje-l%C3%A6rk
   github:
   slug: silje-laerk
   short_bio: Cyber Security Engineer, ABB
@@ -190,7 +205,8 @@ victoria_bergquist:
   pronouns: she/her
   twitter: vicbergquist
   linkedin: https://www.linkedin.com/in/vicbergquist/
-  website:
+  website: https://ko-fi.com/vicbergquist
+  press:
   github:
   slug: victoria-bergquist
   short_bio: Frontend Engineer, Sanity.io
@@ -202,7 +218,8 @@ elizabeth_anne_passano:
   pronouns:
   twitter:
   linkedin:
-  website:
+  website: https://www.sintef.no/en/all-employees/employee/?empId=683
+  press:
   github:
   slug: elizabeth-anne-passano
   short_bio: Senior Research Scientist, SINTEF
@@ -215,6 +232,7 @@ hanne_johnsen:
   twitter: hanne_johnsen
   linkedin: https://www.linkedin.com/in/hanne-johnsen-4257632/
   website:
+  press: https://www.kode24.no/koden-bak/hanne-lager-iot-bonger-for-oslo-pride/71195004
   github:
   slug: hanne-johnsen
   short_bio: Consultant, Bouvet
@@ -226,7 +244,8 @@ rikke_jansen:
   pronouns: she/her
   twitter: mulmbot
   linkedin: https://www.linkedin.com/in/rikke-jansen-b6ba673
-  website:
+  website: https://www.artstation.com/mulm
+  press:
   github:
   slug: rikke-jansen
   short_bio: Fish Person, In The Metaverse
@@ -238,7 +257,8 @@ razieh_behjati:
   pronouns:
   twitter: RBehjati
   linkedin: https://www.linkedin.com/in/rbehjati/
-  website:
+  website: https://testify.no/?lang=en
+  press:
   github:
   slug: razieh-behjati
   short_bio: Senior Consultant & CTO, at Testify
@@ -251,6 +271,7 @@ kristine_sevik:
   twitter: ksevik
   linkedin: https://www.linkedin.com/in/ksevik/
   website:
+  press: https://www.udir.no/kvalitet-og-kompetanse/profesjonsfaglig-digital-kompetanse/notat-om-programmering-i-skolen/
   github:
   slug: kristine-sevik
   short_bio: Senior Advisor, Norwegian centre for ICT in education
@@ -258,11 +279,12 @@ kristine_sevik:
 
 siv_midtun_hollup:
   category: Education, Community, Technical Speaking, Programming
-  name: Siv Midtun Hollup
+  name: Siv Midtun Hollup, PhD
   pronouns: she/her
   twitter: sivmhollup
   linkedin: https://www.linkedin.com/in/siv-midtun-hollup-b263611/
-  website:
+  website: https://blogg.kantega.no/content/1736/Siv-Midtun-Hollup
+  press:
   github:
   slug: siv-midtun-hollup
   short_bio: Consultant, Kantega
@@ -275,6 +297,7 @@ anna_broeyn:
   twitter:
   linkedin: https://www.linkedin.com/in/annabroyn/
   website:
+  press: https://www.rollemodell.no/profil/anna-ursula-broyn/
   github:
   slug: anna-broeyn
   short_bio: Software Engineer, Sopra Steria
@@ -286,7 +309,8 @@ eleanor_young:
   pronouns: she/her
   twitter: nausicaea
   linkedin: https://www.linkedin.com/in/eleanore-y-8b309b195
-  website:
+  website: https://koboldgames.ch/#eleanore
+  press:
   github:
   slug: eleanor-young
   short_bio: Programming and Infrastructure, Koboldgames
@@ -299,6 +323,7 @@ ewa_kabza:
   twitter: ewakabza
   linkedin: https://www.linkedin.com/in/ewakabza
   website:
+  press:
   github:
   slug: ewa-kabza
   short_bio: System Consultant, EvokedSet

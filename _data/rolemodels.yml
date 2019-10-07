@@ -11,9 +11,9 @@ benedicte_raae:
   slug: benedicte-raae
   short_bio: Contractor, Lilly Labs
   bio: |
-    Independant software consultant currently for the Swedish Defence force.
+    Benedicte is an independant Software Consultant currently working for the Swedish Defence force.
 
-    Speaks at conferences globally and contributed to JavaZone and Girl Geek Dinners.
+    She speaks at conferences globally and contributed to JavaZone and Girl Geek Dinners.
 
 christin_gorman:
   category: Technical Writing, Technical Speaking, Programming, Policy
@@ -28,7 +28,7 @@ christin_gorman:
   slug: christin-gorman
   short_bio: Programmer, Kodemaker
   bio: |
-    Christin is a programmer at Kodemaker, a popular technical speaker and writer. She is one of the foremost voices on tech in the public sector in Norway.
+    Christin is a Programmer at Kodemaker, a popular technical speaker and writer. She is one of the foremost voices on tech in the public sector in Norway.
 
     Read more about Christin [here](/christin-gorman-public-sector).
 
@@ -44,7 +44,7 @@ karianne_berg:
   github: karianne
   slug: karianne-berg
   short_bio: CEO & Developer, Rubynor
-  bio: CEO of Rubynor and Senior Developer. Founder of BoosterConf and Smidigkonf. Entrepeneur and technical speaker.
+  bio: Karianne is the CEO of Rubynor and a Senior Developer. She is the Founder of BoosterConf and Smidigkonf, an Entrepeneur and a technical speaker.
 
 kristina_simakova:
   category: Programming, Community
@@ -58,7 +58,7 @@ kristina_simakova:
   github: Kristina-Simakova
   slug: kristina-simakova
   short_bio: Senior Software Engineer, Reality Lab
-  bio: Independent Senior Software Engineer at Reality Lab, specializing in Android and AR/VR. Android, Google Maps & Google Play Google Developer Expert (GDE). Meetup and conference organizer.
+  bio: Kristina is an independent Senior Software Engineer at Reality Lab, specializing in Android and AR/VR. She is and Android, Google Maps & Google Play Google Developer Expert (GDE), a Meetup and conference organizer.
 
 lotte_johansen:
   category: Programming, Technical Speaking
@@ -72,7 +72,7 @@ lotte_johansen:
   github: lottej
   slug: lotte-johansen
   short_bio: Senior Systems Developer, FINN.no
-  bio: Senior Systems Developer at FINN.no. Popular technical speaker with a focus on web accessibility.
+  bio: Lotte is a Senior Systems Developer at FINN.no. She is a popular technical speaker with a focus on web accessibility.
 
 marit_iren_rognli_tokle:
   category: Technical Speaking, Technical Writing, Programming, Community, Security
@@ -86,12 +86,12 @@ marit_iren_rognli_tokle:
   github:
   slug: marit-iren-rognli-tokle
   short_bio: Senior Software Engineer, Sopra Steria
-  bio: Senior Software Engineer at Sopra Steria. Leads Norways largest hacking competition of the form Capture the Flag (CTF), TG:Hack, and is one of several leaders of University of Oslo’s hacking team, UiO-CTF.
+  bio: Marit Iren is a Senior Software Engineer at Sopra Steria. She leads Norway's largest hacking competition of the form Capture the Flag (CTF), TG:Hack, and is one of several leaders of University of Oslo’s hacking team, UiO-CTF.
 
 catharina_boehler:
   category: Game Design
   name: Catharina Bøhler
-  pronouns:
+  pronouns: she/her
   twitter: CathInShadow
   linkedin: https://www.linkedin.com/in/catharina-bøhler-6a3ab822
   website: https://sareptastudio.com
@@ -100,7 +100,7 @@ catharina_boehler:
   github:
   slug: catharina-boehler
   short_bio: CEO & Game Designer, Sarepta Studio
-  bio: CEO and Game Designer at Sarepta Studio. Designer of the awardwinning game My Child Lebensborn (Bafta, Game Beyond Entertainment 2019).
+  bio: Catharina is the CEO and Game Designer at Sarepta Studio. She is the designer of the awardwinning game My Child Lebensborn (Bafta, Game Beyond Entertainment 2019).
 
 hanne_lohne_try:
   category: Programming, Community
@@ -114,7 +114,7 @@ hanne_lohne_try:
   github: lohne
   slug: hanne-lohne-try
   short_bio: Developer, Shortcut
-  bio: Android developer that have worked on many of the most known apps in the country. Active volunteer at Women in Tech and Girltech fest.
+  bio: Hanne is an Android Developer that has worked on many of the most known apps in the country. She is an active volunteer at Women in Tech and Girltech fest.
 
 ida_jaklin_johansen:
   category: Programming,Technical Speaking, Community
@@ -128,7 +128,7 @@ ida_jaklin_johansen:
   github:
   slug: ida-jaklin-johansen
   short_bio: CEO & Founder, Adisoa
-  bio: Fullstack Developer that motivate all genders to pursuit a career in computer science.
+  bio: Ida Jaklin is a Fullstack Developer that motivate all genders to pursuit a career in computer science.
 
 ingeborg_ytrehus:
   category: Programming, Security, Community
@@ -142,7 +142,7 @@ ingeborg_ytrehus:
   github:
   slug: ingeborg-ytrehus
   short_bio: Security Analyst, BDO Cybersecurity
-  bio: Security Analyst at BDO Cybersecurity. "Pwn Boss" at TG:Hach, Norway's largest CTF and winner of multiple university CTFs. Co-founder of  "pwnrpuff girls", a group for technical infosec girls in Norway.
+  bio: Ingeborg is a Security Analyst at BDO Cybersecurity. She is the "Pwn Boss" at TG:Hack, Norway's largest CTF and winner of multiple university CTFs. She is also the co-founder of "pwnrpuff girls", a group for technical infosec girls in Norway.
 
 tone_nordboe:
   category: Interaction Design, Education
@@ -156,7 +156,7 @@ tone_nordboe:
   github:
   slug: tone-nordboe
   short_bio: Lecturer and Indepentent Consultant
-  bio: Independant interaction design consultant. Wrote a book on Interaction Design and lectures at Høyskolen Kristiania. Started UX Norge community on Slack.
+  bio: Tone is an independant Interaction Design Consultant. She wrote a book on Interaction Design and lectures at Høyskolen Kristiania. Tone started the UX Norge community Slack.
 
 bodil_stokke:
   category: Technical Speaking, Programming
@@ -170,7 +170,7 @@ bodil_stokke:
   github: bodil
   slug: bodil-stokke
   short_bio: Computer Programmer, SINOPIA OLIVE LIMITED
-  bio: Computer Programmer at Sinopia Olive. Popular technical speaker. Specializes in functional programming.
+  bio: Bodil is a Computer Programmer at Sinopia Olive and a popular technical speaker who specializes in functional programming.
 
 karina_oeverland_haugen:
   category: Technical Speaking, Programming, Community
@@ -184,7 +184,7 @@ karina_oeverland_haugen:
   video:
   slug: karina-oeverland-haugen
   short_bio: Integrasjonsarkitekt, Helse Vest IKT
-  bio: Integrasjonsarkitekt at Helse Vest IKT. Co-arranged JenteJava and Bergen Nerdschool and Booster conference and contributed to JavaZone.
+  bio: Karina is an Integrasjonsarkitekt at Helse Vest IKT. She co-arranged JenteJava, Bergen Nerdschool, and Booster conference and contributed to JavaZone.
 
 lene_droesdal:
   category: Data Science
@@ -198,7 +198,7 @@ lene_droesdal:
   video:
   slug: lene-droesdal
   short_bio: PhD, Senior Data Scientist, DNB
-  bio: Senior data scientist at DNB. Specialist in Big Data and IoT Analytics. PhD from CERN on a software framework developed to monitor and correct LHC injection beam quality.
+  bio: Lene is a Senior Data Scientist at DNB and a Specialist in Big Data and IoT Analytics. Lene holds a PhD from CERN on a software framework developed to monitor and correct LHC injection beam quality.
 
 silje_laerk:
   category: Technical Speaking, Security
@@ -212,7 +212,7 @@ silje_laerk:
   video:
   slug: silje-laerk
   short_bio: Cyber Security Engineer, ABB
-  bio: Cyber Security Engineer at ABB. Previously founder and CEO of an online retail store, Storogfin.no that won Posten/Brings award for th best Online Store of the Year 2008. Active in the community.
+  bio: Silje is a Cyber Security Engineer at ABB. Previously she founded and was the CEO of an online retail store, Storogfin.no that won the  Posten/Brings award for th best Online Store of the Year 2008. She is active in the community.
 
 victoria_bergquist:
   category: Technical Speaking, Programming, Community
@@ -226,12 +226,12 @@ victoria_bergquist:
   github: vicbergquist
   slug: victoria-bergquist
   short_bio: Frontend Engineer, Sanity.io
-  bio: Web developer at Sanity.io with an academic background in linguistics. Vuepress core team and Chapter Leader of VueVixens Germany. Speaks at conferences globally about vue.js.
+  bio: Victoria is a Web Developer at Sanity.io with an academic background in linguistics. She is a Vuepress core team member and Chapter Leader of VueVixens Germany. Victoria speaks at conferences globally about Vue.js.
 
 elizabeth_anne_passano:
   category: Programming, Academic Research
   name: Elizabeth Anne Passano
-  pronouns:
+  pronouns: she/her
   twitter:
   linkedin:
   website: https://www.sintef.no/en/all-employees/employee/?empId=683
@@ -240,7 +240,7 @@ elizabeth_anne_passano:
   github:
   slug: elizabeth-anne-passano
   short_bio: Senior Research Scientist, SINTEF
-  bio: Senior Research Scientist at The Foundation for Industrial and Technical Research (SINTEF), specialising in Ocean energy and transport. An early AI expert, writes and maintains her own code, and presents internationally.
+  bio: Elizabeth Anne is a Senior Research Scientist at The Foundation for Industrial and Technical Research (SINTEF), specialising in Ocean energy and transport. Being an early AI expert, she writes and maintains her own code, and presents internationally.
 
 hanne_johnsen:
   category: Programming, Community
@@ -254,7 +254,7 @@ hanne_johnsen:
   github:
   slug: hanne-johnsen
   short_bio: Consultant, Bouvet
-  bio: .NET developer and solution architect at Bouvet. Digitized Oslo Pride bong system with IoT tickets.
+  bio: Hanne is a .NET Developer and Solution Architect at Bouvet. She digitized the Oslo Pride bong system with IoT tickets.
 
 rikke_jansen:
   category: Game Design, Game Programming, Animation
@@ -268,7 +268,7 @@ rikke_jansen:
   github:
   slug: rikke-jansen
   short_bio: Fish Person, In The Metaverse
-  bio: Game and VR 3D artist. "Fish Person in The Metaverse". Social VR expert and very entertaining speaker, often presenting as a fish person.
+  bio: Rikke is a Game and VR 3D artist. She is a Social VR expert and very entertaining speaker, often presenting as a "Fish Person in The Metaverse".
 
 razieh_behjati:
   category: Programming, Quality Assurance / Testing
@@ -276,13 +276,13 @@ razieh_behjati:
   pronouns:
   twitter: RBehjati
   linkedin: https://www.linkedin.com/in/rbehjati/
-  website: https://testify.no/?lang=en
+  website: https://testify.no
   press:
   vimeo: 289699247
   github:
   slug: razieh-behjati
   short_bio: Senior Consultant & CTO, at Testify
-  bio: CTO at Testify AS which specialises in test automation. PhD in Software Engineering and an M.Sc in Artificial Intelligence.
+  bio: Razieh is the CTO at Testify AS which specialises in test automation. Razieh holds a PhD in Software Engineering and an M.Sc in Artificial Intelligence.
 
 kristine_sevik:
   category: Education
@@ -296,7 +296,7 @@ kristine_sevik:
   github:
   slug: kristine-sevik
   short_bio: Senior Advisor, Norwegian centre for ICT in education
-  bio: Senior Advisor at the Norwegian Directorate for Education and Training. Wrote the experimental curriculum in elective programming and introduced the concept of algorithmic thinking. Board member of Norway Makers.
+  bio: Kristine is a Senior Advisor at the Norwegian Directorate for Education and Training. She wrote the experimental curriculum in elective programming and introduced the concept of algorithmic thinking. Kristine is a board member of Norway Makers.
 
 siv_midtun_hollup:
   category: Education, Community, Technical Speaking, Programming
@@ -310,7 +310,7 @@ siv_midtun_hollup:
   github: sivhollup
   slug: siv-midtun-hollup
   short_bio: Consultant, Kantega
-  bio: Consultant developer and part-time University Lecturer. Co-founded NerdSchool which helps people into tech careers and develops coding curriculums for kindergartens.
+  bio: Siv is a Consultant Developer and part-time University Lecturer. She co-founded NerdSchool which helps people into tech careers and develops coding curriculums for kindergartens.
 
 anna_broeyn:
   category: Databases/Datawarehouse/Business Intelligence
@@ -324,7 +324,7 @@ anna_broeyn:
   video:
   slug: anna-broeyn
   short_bio: Software Engineer, Sopra Steria
-  bio: Software architect and ETL developer at Sopra Steria, specialising in machine learning and image processing.
+  bio: Anna is a Software Architect and ETL developer at Sopra Steria, specialising in machine learning and image processing.
 
 eleanor_young:
   category: Security, Game Programming
@@ -338,7 +338,7 @@ eleanor_young:
   github: nausicaea
   slug: eleanor-young
   short_bio: Programming and Infrastructure, Koboldgames
-  bio: Game developer at Koboldgames with an academic background in electrical engineering, focussed on solid state electronics, nanosciences and bioelectronics.
+  bio: Eleanor is a Game Developer at Koboldgames with an academic background in electrical engineering, focussed on solid state electronics, nanosciences and bioelectronics.
 
 ewa_kabza:
   category: Community, Academic Research, Technical Speaking
@@ -352,4 +352,4 @@ ewa_kabza:
   github:
   slug: ewa-kabza
   short_bio: System Consultant, EvokedSet
-  bio: System Consultant at EvokedSet AS. Core member of the Mobile Era conference team, former board member of the Oslo Java user group, javaBin, and a board member of Women in Tech Oslo.
+  bio: Ewa is a System Consultant at EvokedSet AS. She is a core member of the Mobile Era conference team, former board member of the Oslo Java user group, javaBin, and a board member of Women in Tech Oslo.

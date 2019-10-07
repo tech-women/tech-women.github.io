@@ -6,7 +6,7 @@ benedicte_raae:
   linkedin: https://www.linkedin.com/in/benedicteraae/
   website: https://www.raae.codes/
   press: https://www.kode24.no/koden-bak/benedicte-lager-egen-gatsby-plugin/71113920
-  github:
+  github: raae
   slug: benedicte-raae
   short_bio: Contractor, Lilly Labs
   bio: |
@@ -22,7 +22,7 @@ christin_gorman:
   linkedin: https://www.linkedin.com/in/christin-gorman-2321aa1/
   website: https://kranglefant.tumblr.com/
   press: https://www.kode24.no/ukas-koder/snart-begynner-jeg-a-klappe-til-folk/71561721
-  github:
+  github: ChristinGorman
   slug: christin-gorman
   short_bio: Programmer, Kodemaker
   bio: |
@@ -38,7 +38,7 @@ karianne_berg:
   linkedin: https://www.linkedin.com/in/kberg/
   website: http://rubynor.com/
   press:
-  github:
+  github: karianne
   slug: karianne-berg
   short_bio: CEO & Developer, Rubynor
   bio: CEO of Rubynor and Senior Developer. Founder of BoosterConf and Smidigkonf. Entrepeneur and technical speaker.
@@ -51,7 +51,7 @@ kristina_simakova:
   linkedin: https://www.linkedin.com/in/ksimakova/
   website: https://creativetech.blog/
   press: https://www.kode24.no/ukas-koder/kristina-er-pa-hemmelig-android-prosjekt-i-get/70486346
-  github:
+  github: Kristina-Simakova
   slug: kristina-simakova
   short_bio: Senior Software Engineer, Reality Lab
   bio: Independent Senior Software Engineer at Reality Lab, specializing in Android and AR/VR. Android, Google Maps & Google Play Google Developer Expert (GDE). Meetup and conference organizer.
@@ -64,7 +64,7 @@ lotte_johansen:
   linkedin: https://www.linkedin.com/in/lotte-johansen-7269561/
   website:
   press: https://www.kode24.no/ukas-koder/jeg-vil-vaere-en-rollemodell-for-jenter/71488988
-  github:
+  github: lottej
   slug: lotte-johansen
   short_bio: Senior Systems Developer, FINN.no
   bio: Senior Systems Developer at FINN.no. Popular technical speaker with a focus on web accessibility.
@@ -103,7 +103,7 @@ hanne_lohne_try:
   linkedin: https://www.linkedin.com/in/hannetry/
   website:
   press: https://www.kode24.no/ukas-koder/skriver-vipps-pa-nytt-med-kotlin/70530606
-  github:
+  github: lohne
   slug: hanne-lohne-try
   short_bio: Developer, Shortcut
   bio: Android developer that have worked on many of the most known apps in the country. Active volunteer at Women in Tech and Girltech fest.
@@ -155,7 +155,7 @@ bodil_stokke:
   linkedin: https://www.linkedin.com/in/bodilstokke/
   website: https://bodil.lol
   press:
-  github:
+  github: bodil
   slug: bodil-stokke
   short_bio: Computer Programmer, SINOPIA OLIVE LIMITED
   bio: Computer Programmer at Sinopia Olive. Popular technical speaker. Specializes in functional programming.
@@ -168,7 +168,7 @@ karina_oeverland_haugen:
   linkedin: https://www.linkedin.com/in/karinahaugen/
   website:
   press:
-  github:
+  github: karinahaugen
   slug: karina-oeverland-haugen
   short_bio: Integrasjonsarkitekt, Helse Vest IKT
   bio: Integrasjonsarkitekt at Helse Vest IKT. Co-arranged JenteJava and Bergen Nerdschool and Booster conference and contributed to JavaZone.
@@ -181,7 +181,7 @@ lene_droesdal:
   linkedin: https://www.linkedin.com/in/ldrosdal/
   website:
   press:
-  github:
+  github: lenend
   slug: lene-droesdal
   short_bio: PhD, Senior Data Scientist, DNB
   bio: Senior data scientist at DNB. Specialist in Big Data and IoT Analytics. PhD from CERN on a software framework developed to monitor and correct LHC injection beam quality.
@@ -207,7 +207,7 @@ victoria_bergquist:
   linkedin: https://www.linkedin.com/in/vicbergquist/
   website: https://ko-fi.com/vicbergquist
   press:
-  github:
+  github: vicbergquist
   slug: victoria-bergquist
   short_bio: Frontend Engineer, Sanity.io
   bio: Web developer at Sanity.io with an academic background in linguistics. Vuepress core team and Chapter Leader of VueVixens Germany. Speaks at conferences globally about vue.js.
@@ -285,7 +285,7 @@ siv_midtun_hollup:
   linkedin: https://www.linkedin.com/in/siv-midtun-hollup-b263611/
   website: https://blogg.kantega.no/content/1736/Siv-Midtun-Hollup
   press: https://www.uib.no/personer/Siv.Midtun.Hollup
-  github:
+  github: sivhollup
   slug: siv-midtun-hollup
   short_bio: Consultant, Kantega
   bio: Consultant developer and part-time University Lecturer. Co-founded NerdSchool which helps people into tech careers and develops coding curriculums for kindergartens.

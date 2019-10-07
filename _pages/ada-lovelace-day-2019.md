@@ -13,12 +13,6 @@ During the conference 8 women will give hands-on talks about their work and fiel
 
 All attendees of our events are required to agree with our [Code of Conduct](/code-of-conduct). This Code of Conduct applies not only to our events but to all digital spaces that are operated by us, such as GitHub.
 
-## Registration
-
-<a href="https://www.meetup.com/Tech-Women-Norway/events/264108718/" class="btn btn-dark">Register here</a>
-
-_Note: The event is now full and new folks are being added to the waiting list._
-
 ## Schedule
 
 {% assign lorena = site.data.speakers.lorena %}

@@ -54,7 +54,7 @@ kristina_simakova:
   linkedin: https://www.linkedin.com/in/ksimakova/
   website: https://creativetech.blog
   press: https://www.kode24.no/ukas-koder/kristina-er-pa-hemmelig-android-prosjekt-i-get/70486346
-  video: https://youtu.be/5sbSaZ9vqTo
+  youtube_embed: 5sbSaZ9vqTo
   github: Kristina-Simakova
   slug: kristina-simakova
   short_bio: Senior Software Engineer, Reality Lab
@@ -68,7 +68,7 @@ lotte_johansen:
   linkedin: https://www.linkedin.com/in/lotte-johansen-7269561/
   website:
   press: https://www.kode24.no/ukas-koder/jeg-vil-vaere-en-rollemodell-for-jenter/71488988
-  video: https://www.youtube.com/watch?v=yLf6Zyw-0_g
+  youtube_embed: yLf6Zyw-0_g
   github: lottej
   slug: lotte-johansen
   short_bio: Senior Systems Developer, FINN.no
@@ -82,7 +82,7 @@ marit_iren_rognli_tokle:
   linkedin: https://www.linkedin.com/in/marit-iren-rognli-tokle-058a81139/
   website: https://19.tghack.no
   press: https://www.digi.no/artikler/konkurrerer-helt-i-toppen-av-sikkerhets-konkurranse/455700
-  video: https://youtu.be/eI_c13foEWg
+  youtube_embed: eI_c13foEWg
   github:
   slug: marit-iren-rognli-tokle
   short_bio: Senior Software Engineer, Sopra Steria
@@ -96,7 +96,7 @@ catharina_boehler:
   linkedin: https://www.linkedin.com/in/catharina-bøhler-6a3ab822
   website: https://sareptastudio.com
   press: https://www.gamer.no/artikler/catharina-bohler-hedres-med-plass-i-hall-of-fame-for-women-in-games/473891
-  video: https://www.youtube.com/watch?v=s1ge8hwsFOk
+  youtube_embed: s1ge8hwsFOk
   github:
   slug: catharina-boehler
   short_bio: CEO & Game Designer, Sarepta Studio
@@ -166,7 +166,7 @@ bodil_stokke:
   linkedin: https://www.linkedin.com/in/bodilstokke/
   website: https://bodil.lol
   press:
-  video: https://youtu.be/cUx2b_FO8EQ
+  youtube_embed: cUx2b_FO8EQ
   github: bodil
   slug: bodil-stokke
   short_bio: Computer Programmer, SINOPIA OLIVE LIMITED
@@ -292,7 +292,7 @@ kristine_sevik:
   linkedin: https://www.linkedin.com/in/ksevik/
   website: https://slideplayer.no/slide/11276705
   press: https://www.udir.no/kvalitet-og-kompetanse/profesjonsfaglig-digital-kompetanse/notat-om-programmering-i-skolen/
-  video: https://www.youtube.com/watch?v=RX-pWP-nnkw
+  youtube_embed: RX-pWP-nnkw
   github:
   slug: kristine-sevik
   short_bio: Senior Advisor, Norwegian centre for ICT in education

@@ -37,5 +37,23 @@
     <i class="fab fa-linkedin text-muted" aria-hidden="true"></i>
     LinkedIn </a
   ><br />
+  {% endif %} {% if include.profile.press %}
+  <a
+    target="_blank"
+    href="{{ include.profile.press }}"
+    title="Feature about {{ include.profile.name }}"
+  >
+    <i class="fab fa-microphone text-muted" aria-hidden="true"></i>
+    Press </a
+  ><br />
+  {% endif %} {% if include.profile.video %}
+  <a
+    target="_blank"
+    href="{{ include.profile.video }}"
+    title="Video of {{ include.profile.name }}"
+  >
+    <i class="fab fa-film text-muted" aria-hidden="true"></i>
+    Video </a
+  ><br />
   {% endif %}
 </p>

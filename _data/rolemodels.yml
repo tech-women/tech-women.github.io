@@ -114,8 +114,8 @@ ida_jaklin_johansen:
   pronouns:
   twitter:
   linkedin: https://www.linkedin.com/in/ida-jaklin-johansen-a68b416a
-  website: 
-  press: https://www.itromso.no/meninger/2018/03/08/%C2%ABKan-vi-akseptere-at-v%C3%A5r-viktigste-fremtidsn%C3%A6ring-er-helt-mannsdominert%C2%BB-16232198.ece
+  website: https://www.itromso.no/meninger/2018/03/08/%C2%ABKan-vi-akseptere-at-v%C3%A5r-viktigste-fremtidsn%C3%A6ring-er-helt-mannsdominert%C2%BB-16232198.ece
+  press: https://www.itromso.no/nyheter/2017/03/12/Ida-28-kåret-til-én-av-landets-fremste-IT-kvinner-14433242.ece
   github:
   slug: ida-jaklin-johansen
   short_bio: CEO & Founder, Adisoa
@@ -231,7 +231,7 @@ hanne_johnsen:
   pronouns: she/her
   twitter: hanne_johnsen
   linkedin: https://www.linkedin.com/in/hanne-johnsen-4257632/
-  website:
+  website: https://www.bouvet.no/bouvet-deler/hanne-lager-iot-bonger-for-oslo-pride
   press: https://www.kode24.no/koden-bak/hanne-lager-iot-bonger-for-oslo-pride/71195004
   github:
   slug: hanne-johnsen
@@ -245,7 +245,7 @@ rikke_jansen:
   twitter: mulmbot
   linkedin: https://www.linkedin.com/in/rikke-jansen-b6ba673
   website: https://www.artstation.com/mulm
-  press:
+  press: https://vimeo.com/user72667805
   github:
   slug: rikke-jansen
   short_bio: Fish Person, In The Metaverse
@@ -270,7 +270,7 @@ kristine_sevik:
   pronouns: she/her
   twitter: ksevik
   linkedin: https://www.linkedin.com/in/ksevik/
-  website:
+  website: https://slideplayer.no/slide/11276705/
   press: https://www.udir.no/kvalitet-og-kompetanse/profesjonsfaglig-digital-kompetanse/notat-om-programmering-i-skolen/
   github:
   slug: kristine-sevik

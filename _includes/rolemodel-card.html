@@ -11,7 +11,9 @@
   <h4></h4>
   <p>
     <em>{{ include.rolemodel.category }}</em><br />
-    <strong class="name">{{ include.rolemodel.name }}</strong><br />
+    <strong class="name">{{ include.rolemodel.name }}</strong>
+    {% if include.rolemodel.pronouns %}<em class="pronouns">({{ include.rolemodel.pronouns }})</em>{% endif %}
+    <br />
     <span class="bio">{{ include.rolemodel.short_bio }}</span><br />
     <a href="{{site.baseurl}}/role-models/2019/{{ include.rolemodel.slug }}">
       read more about {{ include.rolemodel.name }}

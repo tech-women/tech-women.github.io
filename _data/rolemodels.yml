@@ -50,7 +50,7 @@ kristina_simakova:
   twitter: KristiSimakova
   linkedin: https://www.linkedin.com/in/ksimakova/
   website: https://creativetech.blog/
-  press:
+  press: https://www.kode24.no/ukas-koder/kristina-er-pa-hemmelig-android-prosjekt-i-get/70486346
   github:
   slug: kristina-simakova
   short_bio: Senior Software Engineer, Reality Lab
@@ -153,7 +153,7 @@ bodil_stokke:
   pronouns:
   twitter: bodil
   linkedin: https://www.linkedin.com/in/bodilstokke/
-  website:
+  website: https://bodil.lol
   press:
   github:
   slug: bodil-stokke
@@ -175,7 +175,7 @@ karina_oeverland_haugen:
 
 lene_droesdal:
   category: Data Science
-  name: Lene Drøsdal
+  name: Lene Drøsdal, PhD
   pronouns:
   twitter: ldrosdal
   linkedin: https://www.linkedin.com/in/ldrosdal/
@@ -253,7 +253,7 @@ rikke_jansen:
 
 razieh_behjati:
   category: Programming, Quality Assurance / Testing
-  name: Razieh Behjati
+  name: Razieh Behjati, PhD
   pronouns:
   twitter: RBehjati
   linkedin: https://www.linkedin.com/in/rbehjati/
@@ -284,7 +284,7 @@ siv_midtun_hollup:
   twitter: sivmhollup
   linkedin: https://www.linkedin.com/in/siv-midtun-hollup-b263611/
   website: https://blogg.kantega.no/content/1736/Siv-Midtun-Hollup
-  press:
+  press: https://www.uib.no/personer/Siv.Midtun.Hollup
   github:
   slug: siv-midtun-hollup
   short_bio: Consultant, Kantega
@@ -311,7 +311,7 @@ eleanor_young:
   linkedin: https://www.linkedin.com/in/eleanore-y-8b309b195
   website: https://koboldgames.ch/#eleanore
   press:
-  github:
+  github: nausicaea
   slug: eleanor-young
   short_bio: Programming and Infrastructure, Koboldgames
   bio: Game developer at Koboldgames with an academic background in electrical engineering, focussed on solid state electronics, nanosciences and bioelectronics.

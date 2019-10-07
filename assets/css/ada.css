@@ -104,3 +104,18 @@
 .pronouns {
   color: rgba(0,0,0,0.6);
 }
+
+.rolemodel-card {
+  margin-top: 1rem;
+  display: flex;
+}
+
+.rolemodel-card *:first-child {
+  flex-shrink: 0;
+  width: auto;
+}
+
+.rolemodel-card img {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}

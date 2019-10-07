@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% assign rolemodel = site.data.rolemodels[page.rolemodel] %}
+
+<div class="container speaker">
+    <div class="info">
+        <h2 class="font-weight-bold">
+            {{ rolemodel.name }}
+            <span class="small btn btn-outline-success btn-sm btn-round"
+            ><a target="_blank" href="https://twitter.com/{{ rolemodel.twitter }}"
+            >Follow</a
+            ></span
+            >
+        </h2>
+        <p class="pronouns">Pronouns: <em>{{ rolemodel.pronouns }}</em></p>
+        {% if rolemodel.site %}
+        <p><a href="{{ rolemodel.site }}">{{ rolemodel.site }}</a></p>
+        {% endif %} {{ rolemodel.bio | markdownify }}
+
+        {% include profile-links.html profile=rolemodel %}
+    </div>
+    <div class="avatar">
+        <img
+                alt="{{ rolemodel.name }}"
+                src="{{site.baseurl}}/assets/rolemodels/2019/{{ rolemodel.slug }}.250.jpg"
+                class="rounded-circle"
+                height="100"
+                width="100"
+        />
+    </div>
+</div>

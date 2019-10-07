@@ -19,8 +19,8 @@ christin_gorman:
   pronouns: she/her
   twitter: ChristinGorman
   linkedin: https://www.linkedin.com/in/christin-gorman-2321aa1/
-  website: 
-  github: 
+  website:
+  github:
   slug: christin-gorman
   short_bio: Programmer, Kodemaker
   bio: |
@@ -34,8 +34,8 @@ karianne_berg:
   pronouns: she/her
   twitter: karianneberg
   linkedin: https://www.linkedin.com/in/kberg/
-  website: 
-  github: 
+  website:
+  github:
   slug: karianne-berg
   short_bio: CEO & Developer, Rubynor
   bio: CEO of Rubynor and Senior Developer. Founder of BoosterConf and Smidigkonf. Entrepeneur and technical speaker.
@@ -43,11 +43,11 @@ karianne_berg:
 kristina_simakova:
   category: Programming, Community
   name: Kristina Simakova
-  pronouns: 
+  pronouns:
   twitter: KristiSimakova
   linkedin: https://www.linkedin.com/in/ksimakova/
-  website: 
-  github: 
+  website:
+  github:
   slug: kristina-simakova
   short_bio: Senior Software Engineer, Reality Lab
   bio: Independent Senior Software Engineer at Reality Lab, specializing in Android and AR/VR. Android, Google Maps & Google Play Google Developer Expert (GDE). Meetup and conference organizer.
@@ -55,11 +55,11 @@ kristina_simakova:
 lotte_johansen:
   category: Programming, Technical Speaking
   name: Lotte Johansen
-  pronouns: 
+  pronouns:
   twitter: lotte_johansen
   linkedin: https://www.linkedin.com/in/lotte-johansen-7269561/
-  website: 
-  github: 
+  website:
+  github:
   slug: lotte-johansen
   short_bio: Senior Systems Developer, FINN.no
   bio: Senior Systems Developer at FINN.no. Popular technical speaker with a focus on web accessibility.
@@ -70,8 +70,8 @@ marit_iren_rognli_tokle:
   pronouns: she/her
   twitter: maritio_o
   linkedin: https://www.linkedin.com/in/marit-iren-rognli-tokle-058a81139/
-  website: 
-  github: 
+  website:
+  github:
   slug: marit-iren-rognli-tokle
   short_bio: Senior Software Engineer, Sopra Steria
   bio: Senior Software Engineer at Sopra Steria. Leads Norways largest hacking competition of the form Capture the Flag (CTF), TG:Hack, and is one of several leaders of University of Oslo’s hacking team, UiO-CTF.
@@ -79,11 +79,11 @@ marit_iren_rognli_tokle:
 catharina_boehler:
   category: Game Design
   name: Catharina Bøhler
-  pronouns: 
+  pronouns:
   twitter: CathInShadow
   linkedin: https://www.linkedin.com/in/catharina-bøhler-6a3ab822
-  website: 
-  github: 
+  website:
+  github:
   slug: catharina-boehler
   short_bio: CEO & Game Designer, Sarepta Studio
   bio: CEO and Game Designer at Sarepta Studio. Designer of the awardwinning game My Child Lebensborn (Bafta, Game Beyond Entertainment 2019).
@@ -94,8 +94,8 @@ hanne_lohne_try:
   pronouns: she/her
   twitter: hannetry
   linkedin: https://www.linkedin.com/in/hannetry/
-  website: 
-  github: 
+  website:
+  github:
   slug: hanne-lohne-try
   short_bio: Developer, Shortcut
   bio: Android developer that have worked on many of the most known apps in the country. Active volunteer at Women in Tech and Girltech fest.
@@ -103,11 +103,11 @@ hanne_lohne_try:
 ida_jaklin_johansen:
   category: Programming,Technical Speaking, Community
   name: Ida Jaklin Johansen
-  pronouns: 
-  twitter: 
+  pronouns:
+  twitter:
   linkedin: https://www.linkedin.com/in/ida-jaklin-johansen-a68b416a
-  website: 
-  github: 
+  website:
+  github:
   slug: ida-jaklin-johansen
   short_bio: CEO & Founder, Adisoa
   bio: Fullstack Developer that motivate all genders to pursuit a career in computer science.
@@ -115,11 +115,11 @@ ida_jaklin_johansen:
 ingeborg_ytrehus:
   category: Programming, Security, Community
   name: Ingeborg Ytrehus
-  pronouns: 
-  twitter: 
+  pronouns:
+  twitter:
   linkedin: https://www.linkedin.com/in/ingeborgytrehus/
-  website: 
-  github: 
+  website:
+  github:
   slug: ingeborg-ytrehus
   short_bio: Security Analyst, BDO Cybersecurity
   bio: Security Analyst at BDO Cybersecurity. "Pwn Boss" at TG:Hach, Norway's largest CTF and winner of multiple university CTFs. Co-founder of  "pwnrpuff girls", a group for technical infosec girls in Norway.
@@ -130,8 +130,8 @@ tone_nordboe:
   pronouns: she/her
   twitter: tonenordbo
   linkedin: https://www.linkedin.com/in/tonenordbo
-  website: 
-  github: 
+  website:
+  github:
   slug: tone-nordboe
   short_bio: Lecturer and Indepentent Consultant
   bio: Independant interaction design consultant. Wrote a book on Interaction Design and lectures at Høyskolen Kristiania. Started UX Norge community on Slack.
@@ -139,11 +139,11 @@ tone_nordboe:
 bodil_stokke:
   category: Technical Speaking, Programming
   name: Bodil Stokke
-  pronouns: 
+  pronouns:
   twitter: bodil
   linkedin: https://www.linkedin.com/in/bodilstokke/
-  website: 
-  github: 
+  website:
+  github:
   slug: bodil-stokke
   short_bio: Computer Programmer, SINOPIA OLIVE LIMITED
   bio: Computer Programmer at Sinopia Olive. Popular technical speaker. Specializes in functional programming.
@@ -152,10 +152,10 @@ karina_oeverland_haugen:
   category: Technical Speaking, Programming, Community
   name: Karina Øverland Haugen
   pronouns: she/her
-  twitter: 
+  twitter:
   linkedin: https://www.linkedin.com/in/karinahaugen/
-  website: 
-  github: 
+  website:
+  github:
   slug: karina-oeverland-haugen
   short_bio: Integrasjonsarkitekt, Helse Vest IKT
   bio: Integrasjonsarkitekt at Helse Vest IKT. Co-arranged JenteJava and Bergen Nerdschool and Booster conference and contributed to JavaZone.
@@ -163,11 +163,11 @@ karina_oeverland_haugen:
 lene_droesdal:
   category: Data Science
   name: Lene Drøsdal
-  pronouns: 
+  pronouns:
   twitter: ldrosdal
   linkedin: https://www.linkedin.com/in/ldrosdal/
-  website: 
-  github: 
+  website:
+  github:
   slug: lene-droesdal
   short_bio: PhD, Senior Data Scientist, DNB
   bio: Senior data scientist at DNB. Specialist in Big Data and IoT Analytics. PhD from CERN on a software framework developed to monitor and correct LHC injection beam quality.
@@ -178,8 +178,8 @@ silje_laerk:
   pronouns: she/her
   twitter: siljel
   linkedin: https://www.linkedin.com/in/siljelaerk/
-  website: 
-  github: 
+  website:
+  github:
   slug: silje-laerk
   short_bio: Cyber Security Engineer, ABB
   bio: Cyber Security Engineer at ABB. Previously founder and CEO of an online retail store, Storogfin.no that won Posten/Brings award for th best Online Store of the Year 2008. Active in the community.
@@ -190,8 +190,8 @@ victoria_bergquist:
   pronouns: she/her
   twitter: vicbergquist
   linkedin: https://www.linkedin.com/in/vicbergquist/
-  website: 
-  github: 
+  website:
+  github:
   slug: victoria-bergquist
   short_bio: Frontend Engineer, Sanity.io
   bio: Web developer at Sanity.io with an academic background in linguistics. Vuepress core team and Chapter Leader of VueVixens Germany. Speaks at conferences globally about vue.js.
@@ -199,11 +199,11 @@ victoria_bergquist:
 elizabeth_anne_passano:
   category: Programming, Academic Research
   name: Elizabeth Anne Passano
-  pronouns: 
-  twitter: 
-  linkedin: 
-  website: 
-  github: 
+  pronouns:
+  twitter:
+  linkedin:
+  website:
+  github:
   slug: elizabeth-anne-passano
   short_bio: Senior Research Scientist, SINTEF
   bio: Senior Research Scientist at The Foundation for Industrial and Technical Research (SINTEF), specialising in Ocean energy and transport. An early AI expert, writes and maintains her own code, and presents internationally.
@@ -214,8 +214,8 @@ hanne_johnsen:
   pronouns: she/her
   twitter: hanne_johnsen
   linkedin: https://www.linkedin.com/in/hanne-johnsen-4257632/
-  website: 
-  github: 
+  website:
+  github:
   slug: hanne-johnsen
   short_bio: Consultant, Bouvet
   bio: .NET developer and solution architect at Bouvet. Digitized Oslo Pride bong system with IoT tickets.
@@ -226,8 +226,8 @@ rikke_jansen:
   pronouns: she/her
   twitter: mulmbot
   linkedin: https://www.linkedin.com/in/rikke-jansen-b6ba673
-  website: 
-  github: 
+  website:
+  github:
   slug: rikke-jansen
   short_bio: Fish Person, In The Metaverse
   bio: Game and VR 3D artist. "Fish Person in The Metaverse". Social VR expert and very entertaining speaker, often presenting as a fish person.
@@ -235,11 +235,11 @@ rikke_jansen:
 razieh_behjati:
   category: Programming, Quality Assurance / Testing
   name: Razieh Behjati
-  pronouns: 
+  pronouns:
   twitter: RBehjati
   linkedin: https://www.linkedin.com/in/rbehjati/
-  website: 
-  github: 
+  website:
+  github:
   slug: razieh-behjati
   short_bio: Senior Consultant & CTO, at Testify
   bio: CTO at Testify AS which specialises in test automation. PhD in Software Engineering and an M.Sc in Artificial Intelligence.
@@ -250,8 +250,8 @@ kristine_sevik:
   pronouns: she/her
   twitter: ksevik
   linkedin: https://www.linkedin.com/in/ksevik/
-  website: 
-  github: 
+  website:
+  github:
   slug: kristine-sevik
   short_bio: Senior Advisor, Norwegian centre for ICT in education
   bio: Senior Advisor at the Norwegian Directorate for Education and Training. Wrote the experimental curriculum in elective programming and introduced the concept of algorithmic thinking. Board member of Norway Makers.
@@ -262,8 +262,8 @@ siv_midtun_hollup:
   pronouns: she/her
   twitter: sivmhollup
   linkedin: https://www.linkedin.com/in/siv-midtun-hollup-b263611/
-  website: 
-  github: 
+  website:
+  github:
   slug: siv-midtun-hollup
   short_bio: Consultant, Kantega
   bio: Consultant developer and part-time University Lecturer. Co-founded NerdSchool which helps people into tech careers and develops coding curriculums for kindergartens.
@@ -272,10 +272,10 @@ anna_broeyn:
   category: Databases/Datawarehouse/Business Intelligence
   name: Anna Brøyn
   pronouns: she/her
-  twitter: 
+  twitter:
   linkedin: https://www.linkedin.com/in/annabroyn/
-  website: 
-  github: 
+  website:
+  github:
   slug: anna-broeyn
   short_bio: Software Engineer, Sopra Steria
   bio: Software architect and ETL developer at Sopra Steria, specialising in machine learning and image processing.
@@ -286,8 +286,8 @@ eleanor_young:
   pronouns: she/her
   twitter: nausicaea
   linkedin: https://www.linkedin.com/in/eleanore-y-8b309b195
-  website: 
-  github: 
+  website:
+  github:
   slug: eleanor-young
   short_bio: Programming and Infrastructure, Koboldgames
   bio: Game developer at Koboldgames with an academic background in electrical engineering, focussed on solid state electronics, nanosciences and bioelectronics.
@@ -298,8 +298,8 @@ ewa_kabza:
   pronouns: she/her
   twitter: ewakabza
   linkedin: https://www.linkedin.com/in/ewakabza
-  website: 
-  github: 
+  website:
+  github:
   slug: ewa-kabza
   short_bio: System Consultant, EvokedSet
   bio: System Consultant at EvokedSet AS. Core member of the Mobile Era conference team, former board member of the Oslo Java user group, javaBin, and a board member of Women in Tech Oslo.

@@ -4,8 +4,8 @@ permalink: "/tech-role-models-2019"
 layout: rolemodels
 ---
 
-[Tech Women Norway]({{ site.url }}) is proud to present the *Tech Role Models 2019* which were selected in collaboration with an independent jury and presented at the [_Ada Lovelace mini-conference 2019_](/ada-lovelace-day-2019.html).  
-You can read more about the *Tech Role Models* initiative in Norwegian [here](https://www.digi.no/artikler/patricia-aas-arrangerer-pris-for-kvinner-som-faktisk-jobber-i-it/471216).
+[Tech Women Norway]({{ site.url }}) is proud to present the _Tech Role Models 2019_ which were selected in collaboration with an independent jury and presented at the [_Ada Lovelace mini-conference 2019_](/ada-lovelace-day-2019.html).  
+You can read more about the _Tech Role Models_ initiative in Norwegian [here](https://www.digi.no/artikler/patricia-aas-arrangerer-pris-for-kvinner-som-faktisk-jobber-i-it/471216).
 
 {% assign rolemodel1 = site.data.rolemodels.anna_broeyn %}
 {% assign rolemodel2 = site.data.rolemodels.benedicte_raae %}
@@ -60,7 +60,7 @@ You can read more about the *Tech Role Models* initiative in Norwegian [here](ht
 {% include rolemodel-card.html rolemodel=rolemodel23 %}
 {% include rolemodel-card.html rolemodel=rolemodel24 %}
 {% include rolemodel-card.html rolemodel=rolemodel25 %}
-    
+
 </div>
 
 ## Jury

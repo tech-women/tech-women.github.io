@@ -1,20 +1,20 @@
 <div class="rolemodel-card">
+  <a href="{{site.baseurl}}/role-models/2019/{{ include.rolemodel.slug }}">
+    <img
+      alt="{{ include.rolemodel.name }}"
+      src="{{site.baseurl}}/assets/rolemodels/2019/{{ include.rolemodel.slug }}.250.jpg"
+      class="rounded-circle avatar"
+      height="100"
+      width="100"
+    />
+  </a>
+  <h4></h4>
+  <p>
+    <em>{{ include.rolemodel.category }}</em><br />
+    <strong class="name">{{ include.rolemodel.name }}</strong><br />
+    <span class="bio">{{ include.rolemodel.short_bio }}</span><br />
     <a href="{{site.baseurl}}/role-models/2019/{{ include.rolemodel.slug }}">
-        <img
-                alt="{{ include.rolemodel.name }}"
-                src="{{site.baseurl}}/assets/rolemodels/2019/{{ include.rolemodel.slug }}.250.jpg"
-                class="rounded-circle avatar"
-                height="100"
-                width="100"
-        />
+      read more about {{ include.rolemodel.name }}
     </a>
-    <h4></h4>
-    <p>
-        <em>{{ include.rolemodel.category }}</em><br/>
-        <strong class="name">{{ include.rolemodel.name }}</strong><br/>
-        <span class="bio">{{ include.rolemodel.short_bio }}</span><br/>
-        <a href="{{site.baseurl}}/role-models/2019/{{ include.rolemodel.slug }}">
-            read more about {{ include.rolemodel.name }}
-        </a>
-    </p>
+  </p>
 </div>

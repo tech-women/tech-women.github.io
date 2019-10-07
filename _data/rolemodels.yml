@@ -6,6 +6,7 @@ benedicte_raae:
   linkedin: https://www.linkedin.com/in/benedicteraae/
   website: https://www.raae.codes/
   press: https://www.kode24.no/koden-bak/benedicte-lager-egen-gatsby-plugin/71113920
+  video: https://vimeo.com/240808361
   github: raae
   slug: benedicte-raae
   short_bio: Contractor, Lilly Labs
@@ -22,6 +23,7 @@ christin_gorman:
   linkedin: https://www.linkedin.com/in/christin-gorman-2321aa1/
   website: https://kranglefant.tumblr.com/
   press: https://www.kode24.no/ukas-koder/snart-begynner-jeg-a-klappe-til-folk/71561721
+  video: https://vimeo.com/28885655
   github: ChristinGorman
   slug: christin-gorman
   short_bio: Programmer, Kodemaker
@@ -38,6 +40,7 @@ karianne_berg:
   linkedin: https://www.linkedin.com/in/kberg/
   website: http://rubynor.com/
   press:
+  video: https://vimeo.com/324153381
   github: karianne
   slug: karianne-berg
   short_bio: CEO & Developer, Rubynor
@@ -51,6 +54,7 @@ kristina_simakova:
   linkedin: https://www.linkedin.com/in/ksimakova/
   website: https://creativetech.blog/
   press: https://www.kode24.no/ukas-koder/kristina-er-pa-hemmelig-android-prosjekt-i-get/70486346
+  video: https://youtu.be/5sbSaZ9vqTo
   github: Kristina-Simakova
   slug: kristina-simakova
   short_bio: Senior Software Engineer, Reality Lab
@@ -64,6 +68,7 @@ lotte_johansen:
   linkedin: https://www.linkedin.com/in/lotte-johansen-7269561/
   website:
   press: https://www.kode24.no/ukas-koder/jeg-vil-vaere-en-rollemodell-for-jenter/71488988
+  video: https://www.youtube.com/watch?v=yLf6Zyw-0_g
   github: lottej
   slug: lotte-johansen
   short_bio: Senior Systems Developer, FINN.no
@@ -77,6 +82,7 @@ marit_iren_rognli_tokle:
   linkedin: https://www.linkedin.com/in/marit-iren-rognli-tokle-058a81139/
   website: https://19.tghack.no/
   press: https://www.digi.no/artikler/konkurrerer-helt-i-toppen-av-sikkerhets-konkurranse/455700
+  video: https://youtu.be/eI_c13foEWg
   github:
   slug: marit-iren-rognli-tokle
   short_bio: Senior Software Engineer, Sopra Steria
@@ -90,6 +96,7 @@ catharina_boehler:
   linkedin: https://www.linkedin.com/in/catharina-bøhler-6a3ab822
   website: https://sareptastudio.com/
   press: https://www.gamer.no/artikler/catharina-bohler-hedres-med-plass-i-hall-of-fame-for-women-in-games/473891
+  video: https://www.youtube.com/watch?v=s1ge8hwsFOk
   github:
   slug: catharina-boehler
   short_bio: CEO & Game Designer, Sarepta Studio
@@ -103,6 +110,7 @@ hanne_lohne_try:
   linkedin: https://www.linkedin.com/in/hannetry/
   website:
   press: https://www.kode24.no/ukas-koder/skriver-vipps-pa-nytt-med-kotlin/70530606
+  video:
   github: lohne
   slug: hanne-lohne-try
   short_bio: Developer, Shortcut
@@ -116,6 +124,7 @@ ida_jaklin_johansen:
   linkedin: https://www.linkedin.com/in/ida-jaklin-johansen-a68b416a
   website: https://www.itromso.no/meninger/2018/03/08/%C2%ABKan-vi-akseptere-at-v%C3%A5r-viktigste-fremtidsn%C3%A6ring-er-helt-mannsdominert%C2%BB-16232198.ece
   press: https://www.itromso.no/nyheter/2017/03/12/Ida-28-kåret-til-én-av-landets-fremste-IT-kvinner-14433242.ece
+  video:
   github:
   slug: ida-jaklin-johansen
   short_bio: CEO & Founder, Adisoa
@@ -129,6 +138,7 @@ ingeborg_ytrehus:
   linkedin: https://www.linkedin.com/in/ingeborgytrehus/
   website:
   press: https://www.evry.com/no/om-evry/media/nyheter/2019/03/norge-skriker-etter-flere-sikkerhetseksperter.-du-kan-bli-en-av-dem/
+  video:
   github:
   slug: ingeborg-ytrehus
   short_bio: Security Analyst, BDO Cybersecurity
@@ -142,6 +152,7 @@ tone_nordboe:
   linkedin: https://www.linkedin.com/in/tonenordbo
   website: https://www.tonenordbo.no/
   press: https://shifter.no/forfatter-til-forte-tone-nordbo-er-ny-kreativ-leder/
+  video:
   github:
   slug: tone-nordboe
   short_bio: Lecturer and Indepentent Consultant
@@ -155,6 +166,7 @@ bodil_stokke:
   linkedin: https://www.linkedin.com/in/bodilstokke/
   website: https://bodil.lol
   press:
+  video: https://youtu.be/cUx2b_FO8EQ
   github: bodil
   slug: bodil-stokke
   short_bio: Computer Programmer, SINOPIA OLIVE LIMITED
@@ -169,6 +181,7 @@ karina_oeverland_haugen:
   website:
   press:
   github: karinahaugen
+  video:
   slug: karina-oeverland-haugen
   short_bio: Integrasjonsarkitekt, Helse Vest IKT
   bio: Integrasjonsarkitekt at Helse Vest IKT. Co-arranged JenteJava and Bergen Nerdschool and Booster conference and contributed to JavaZone.
@@ -182,6 +195,7 @@ lene_droesdal:
   website:
   press:
   github: lenend
+  video:
   slug: lene-droesdal
   short_bio: PhD, Senior Data Scientist, DNB
   bio: Senior data scientist at DNB. Specialist in Big Data and IoT Analytics. PhD from CERN on a software framework developed to monitor and correct LHC injection beam quality.
@@ -195,6 +209,7 @@ silje_laerk:
   website: https://www.enthusiasmsuitsyou.com/
   press: https://techwomen.no/speakers/silje-l%C3%A6rk
   github:
+  video:
   slug: silje-laerk
   short_bio: Cyber Security Engineer, ABB
   bio: Cyber Security Engineer at ABB. Previously founder and CEO of an online retail store, Storogfin.no that won Posten/Brings award for th best Online Store of the Year 2008. Active in the community.
@@ -207,6 +222,7 @@ victoria_bergquist:
   linkedin: https://www.linkedin.com/in/vicbergquist/
   website: https://ko-fi.com/vicbergquist
   press:
+  video:
   github: vicbergquist
   slug: victoria-bergquist
   short_bio: Frontend Engineer, Sanity.io
@@ -220,6 +236,7 @@ elizabeth_anne_passano:
   linkedin:
   website: https://www.sintef.no/en/all-employees/employee/?empId=683
   press:
+  video:
   github:
   slug: elizabeth-anne-passano
   short_bio: Senior Research Scientist, SINTEF
@@ -233,6 +250,7 @@ hanne_johnsen:
   linkedin: https://www.linkedin.com/in/hanne-johnsen-4257632/
   website:
   press: https://www.kode24.no/koden-bak/hanne-lager-iot-bonger-for-oslo-pride/71195004
+  video:
   github:
   slug: hanne-johnsen
   short_bio: Consultant, Bouvet
@@ -260,6 +278,7 @@ razieh_behjati:
   linkedin: https://www.linkedin.com/in/rbehjati/
   website: https://testify.no/?lang=en
   press:
+  video: https://vimeo.com/289699247
   github:
   slug: razieh-behjati
   short_bio: Senior Consultant & CTO, at Testify
@@ -273,6 +292,7 @@ kristine_sevik:
   linkedin: https://www.linkedin.com/in/ksevik/
   website: https://slideplayer.no/slide/11276705/
   press: https://www.udir.no/kvalitet-og-kompetanse/profesjonsfaglig-digital-kompetanse/notat-om-programmering-i-skolen/
+  video: https://www.youtube.com/watch?v=RX-pWP-nnkw
   github:
   slug: kristine-sevik
   short_bio: Senior Advisor, Norwegian centre for ICT in education
@@ -286,6 +306,7 @@ siv_midtun_hollup:
   linkedin: https://www.linkedin.com/in/siv-midtun-hollup-b263611/
   website: https://blogg.kantega.no/content/1736/Siv-Midtun-Hollup
   press: https://www.uib.no/personer/Siv.Midtun.Hollup
+  video: https://vimeo.com/209357660
   github: sivhollup
   slug: siv-midtun-hollup
   short_bio: Consultant, Kantega
@@ -300,6 +321,7 @@ anna_broeyn:
   website:
   press: https://www.rollemodell.no/profil/anna-ursula-broyn/
   github:
+  video:
   slug: anna-broeyn
   short_bio: Software Engineer, Sopra Steria
   bio: Software architect and ETL developer at Sopra Steria, specialising in machine learning and image processing.
@@ -312,6 +334,7 @@ eleanor_young:
   linkedin: https://www.linkedin.com/in/eleanore-y-8b309b195
   website: https://koboldgames.ch/#eleanore
   press:
+  video:
   github: nausicaea
   slug: eleanor-young
   short_bio: Programming and Infrastructure, Koboldgames
@@ -325,6 +348,7 @@ ewa_kabza:
   linkedin: https://www.linkedin.com/in/ewakabza
   website:
   press:
+  video:
   github:
   slug: ewa-kabza
   short_bio: System Consultant, EvokedSet

@@ -46,6 +46,15 @@
     <i class="fa fa-microphone text-muted" aria-hidden="true"></i>
     Press </a
   ><br />
+  {% endif %} {% if include.profile.vimeo %}
+  <a
+    target="_blank"
+    href="https://vimeo.com/{{ include.profile.vimeo }}"
+    title="Vimeo channel of {{ include.profile.name }}"
+  >
+    <i class="fab fa-vimeo text-muted" aria-hidden="true"></i>
+    Vimeo </a
+  ><br />
   {% endif %} {% if include.profile.video %}
   <a
     target="_blank"

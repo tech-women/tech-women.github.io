@@ -6,7 +6,7 @@ benedicte_raae:
   linkedin: https://www.linkedin.com/in/benedicteraae/
   website: https://www.raae.codes/
   press: https://www.kode24.no/koden-bak/benedicte-lager-egen-gatsby-plugin/71113920
-  video: https://vimeo.com/240808361
+  vimeo: 240808361
   github: raae
   slug: benedicte-raae
   short_bio: Contractor, Lilly Labs
@@ -23,7 +23,7 @@ christin_gorman:
   linkedin: https://www.linkedin.com/in/christin-gorman-2321aa1/
   website: https://kranglefant.tumblr.com/
   press: https://www.kode24.no/ukas-koder/snart-begynner-jeg-a-klappe-til-folk/71561721
-  video: https://vimeo.com/28885655
+  vimeo: 28885655
   github: ChristinGorman
   slug: christin-gorman
   short_bio: Programmer, Kodemaker
@@ -40,7 +40,7 @@ karianne_berg:
   linkedin: https://www.linkedin.com/in/kberg/
   website: http://rubynor.com/
   press:
-  video: https://vimeo.com/324153381
+  vimeo: 324153381
   github: karianne
   slug: karianne-berg
   short_bio: CEO & Developer, Rubynor
@@ -263,8 +263,8 @@ rikke_jansen:
   twitter: mulmbot
   linkedin: https://www.linkedin.com/in/rikke-jansen-b6ba673
   website: https://www.artstation.com/mulm
-  press: 
-  video: https://vimeo.com/user72667805
+  press:
+  vimeo: user72667805
   github:
   slug: rikke-jansen
   short_bio: Fish Person, In The Metaverse
@@ -278,7 +278,7 @@ razieh_behjati:
   linkedin: https://www.linkedin.com/in/rbehjati/
   website: https://testify.no/?lang=en
   press:
-  video: https://vimeo.com/289699247
+  vimeo: 289699247
   github:
   slug: razieh-behjati
   short_bio: Senior Consultant & CTO, at Testify
@@ -306,7 +306,7 @@ siv_midtun_hollup:
   linkedin: https://www.linkedin.com/in/siv-midtun-hollup-b263611/
   website: https://blogg.kantega.no/content/1736/Siv-Midtun-Hollup
   press: https://www.uib.no/personer/Siv.Midtun.Hollup
-  video: https://vimeo.com/209357660
+  vimeo: 209357660
   github: sivhollup
   slug: siv-midtun-hollup
   short_bio: Consultant, Kantega

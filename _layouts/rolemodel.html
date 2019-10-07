@@ -15,6 +15,7 @@ layout: default
             >
         </h2>
         <p class="pronouns">Pronouns: <em>{{ rolemodel.pronouns }}</em></p>
+        <p><em>{{site.name}} recognizes {{rolemodel.name}} as a Tech Role Model in the Category:<br/><strong>{{ rolemodel.category }}</strong></em></p>
         {% if rolemodel.site %}
         <p><a href="{{ rolemodel.site }}">{{ rolemodel.site }}</a></p>
         {% endif %} {{ rolemodel.bio | markdownify }}

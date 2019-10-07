@@ -1,299 +1,305 @@
 benedicte_raae:
-  category: 
+  category: Technical Speaking, Programming
   name: Benedicte Raae
   pronouns: she/her
   twitter: raae
   linkedin: https://www.linkedin.com/in/benedicteraae/
-  website: 
-  github: 
-  slug: benedicte_raae
-  short_bio: 
-  bio: 
+  website:
+  github:
+  slug: benedicte-raae
+  short_bio: Contractor, Lilly Labs
+  bio: |
+    Independant software consultant currently for the Swedish Defence force.
+
+    Speaks at conferences globally and contributed to JavaZone and Girl Geek Dinners.
 
 christin_gorman:
-  category: 
+  category: Technical Writing, Technical Speaking, Programming, PolicyProgrammer at Kodemaker. Popular technical speaker and writer.
   name: Christin Gorman
   pronouns: she/her
   twitter: ChristinGorman
   linkedin: https://www.linkedin.com/in/christin-gorman-2321aa1/
   website: 
   github: 
-  slug: christin_gorman
-  short_bio: 
-  bio: 
+  slug: christin-gorman
+  short_bio: Programmer, Kodemaker
+  bio: |
+    Christin is one of the foremost voices on tech in the public sector in Norway.
+
+    Read more about Christing [here](/christin-gorman-public-sector)
 
 karianne_berg:
-  category: 
+  category: Project Management, Programming, Technical Speaking, Community
   name: Karianne Berg
   pronouns: she/her
   twitter: karianneberg
   linkedin: https://www.linkedin.com/in/kberg/
   website: 
   github: 
-  slug: karianne_berg
-  short_bio: 
-  bio: 
+  slug: karianne-berg
+  short_bio: CEO & Developer, Rubynor
+  bio: CEO of Rubynor and Senior Developer. Founder of BoosterConf and Smidigkonf. Entrepeneur and technical speaker.
 
 kristina_simakova:
-  category: 
+  category: Programming, Community
   name: Kristina Simakova
   pronouns: 
   twitter: KristiSimakova
   linkedin: https://www.linkedin.com/in/ksimakova/
   website: 
   github: 
-  slug: kristina_simakova
-  short_bio: 
-  bio: 
+  slug: kristina-simakova
+  short_bio: Senior Software Engineer, Reality Lab
+  bio: Independent Senior Software Engineer at Reality Lab, specializing in Android and AR/VR. Android, Google Maps & Google Play Google Developer Expert (GDE). Meetup and conference organizer.
 
 lotte_johansen:
-  category: 
+  category: Programming, Technical Speaking
   name: Lotte Johansen
   pronouns: 
   twitter: lotte_johansen
   linkedin: https://www.linkedin.com/in/lotte-johansen-7269561/
   website: 
   github: 
-  slug: lotte_johansen
-  short_bio: 
-  bio: 
+  slug: lotte-johansen
+  short_bio: Senior Systems Developer, FINN.no
+  bio: Senior Systems Developer at FINN.no. Popular technical speaker with a focus on web accessibility.
 
 marit_iren_rognli_tokle:
-  category: 
+  category: Technical Speaking, Technical Writing, Programming, Community, Security
   name: Marit Iren Rognli Tokle
   pronouns: she/her
   twitter: maritio_o
   linkedin: https://www.linkedin.com/in/marit-iren-rognli-tokle-058a81139/
   website: 
   github: 
-  slug: marit_iren_rognli_tokle
-  short_bio: 
-  bio: 
+  slug: marit-iren-rognli-tokle
+  short_bio: Senior Software Engineer, Sopra Steria
+  bio: Senior Software Engineer at Sopra Steria. Leads Norways largest hacking competition of the form Capture the Flag (CTF), TG:Hack, and is one of several leaders of University of Oslo’s hacking team, UiO-CTF.
 
 catharina_boehler:
-  category: 
+  category: Game Design
   name: Catharina Bøhler
   pronouns: 
   twitter: CathInShadow
   linkedin: https://www.linkedin.com/in/catharina-bøhler-6a3ab822
   website: 
   github: 
-  slug: catharina_boehler
-  short_bio: 
-  bio: 
+  slug: catharina-boehler
+  short_bio: CEO & Game Designer, Sarepta Studio
+  bio: CEO and Game Designer at Sarepta Studio. Designer of the awardwinning game My Child Lebensborn (Bafta, Game Beyond Entertainment 2019).
 
 hanne_lohne_try:
-  category: 
+  category: Programming, Community
   name: Hanne Lohne Try
   pronouns: she/her
   twitter: hannetry
   linkedin: https://www.linkedin.com/in/hannetry/
   website: 
   github: 
-  slug: hanne_lohne_try
-  short_bio: 
-  bio: 
+  slug: hanne-lohne-try
+  short_bio: Developer, Shortcut
+  bio: Android developer that have worked on many of the most known apps in the country. Active volunteer at Women in Tech and Girltech fest.
 
 ida_jaklin_johansen:
-  category: 
+  category: Programming,Technical Speaking, Community
   name: Ida Jaklin Johansen
   pronouns: 
   twitter: 
   linkedin: https://www.linkedin.com/in/ida-jaklin-johansen-a68b416a
   website: 
   github: 
-  slug: ida_jaklin_johansen
-  short_bio: 
-  bio: 
+  slug: ida-jaklin-johansen
+  short_bio: CEO & Founder, Adisoa
+  bio: Fullstack Developer that motivate all genders to pursuit a career in computer science.
 
 ingeborg_ytrehus:
-  category: 
+  category: Programming, Security, Community
   name: Ingeborg Ytrehus
   pronouns: 
   twitter: 
   linkedin: https://www.linkedin.com/in/ingeborgytrehus/
   website: 
   github: 
-  slug: ingeborg_ytrehus
-  short_bio: 
-  bio: 
+  slug: ingeborg-ytrehus
+  short_bio: Security Analyst, BDO Cybersecurity
+  bio: Security Analyst at BDO Cybersecurity. "Pwn Boss" at TG:Hach, Norway's largest CTF and winner of multiple university CTFs. Co-founder of  "pwnrpuff girls", a group for technical infosec girls in Norway.
 
 tone_nordboe:
-  category: 
+  category: Interaction Design, Education
   name: Tone Nordbø
   pronouns: she/her
   twitter: tonenordbo
   linkedin: https://www.linkedin.com/in/tonenordbo
   website: 
   github: 
-  slug: tone_nordboe
-  short_bio: 
-  bio: 
+  slug: tone-nordboe
+  short_bio: Lecturer and Indepentent Consultant
+  bio: Independant interaction design consultant. Wrote a book on Interaction Design and lectures at Høyskolen Kristiania. Started UX Norge community on Slack.
 
 bodil_stokke:
-  category: 
+  category: Technical Speaking, Programming
   name: Bodil Stokke
   pronouns: 
   twitter: bodil
   linkedin: https://www.linkedin.com/in/bodilstokke/
   website: 
   github: 
-  slug: bodil_stokke
-  short_bio: 
-  bio: 
+  slug: bodil-stokke
+  short_bio: Computer Programmer, SINOPIA OLIVE LIMITED
+  bio: Computer Programmer at Sinopia Olive. Popular technical speaker. Specializes in functional programming.
 
 karina_oeverland_haugen:
-  category: 
+  category: Technical Speaking, Programming, Community
   name: Karina Øverland Haugen
   pronouns: she/her
   twitter: 
   linkedin: https://www.linkedin.com/in/karinahaugen/
   website: 
   github: 
-  slug: karina_oeverland_haugen
-  short_bio: 
-  bio: 
+  slug: karina-oeverland-haugen
+  short_bio: Integrasjonsarkitekt, Helse Vest IKT
+  bio: Integrasjonsarkitekt at Helse Vest IKT. Co-arranged JenteJava and Bergen Nerdschool and Booster conference and contributed to JavaZone.
 
 lene_droesdal:
-  category: 
+  category: Data Science
   name: Lene Drøsdal
   pronouns: 
   twitter: ldrosdal
   linkedin: https://www.linkedin.com/in/ldrosdal/
   website: 
   github: 
-  slug: lene_droesdal
-  short_bio: 
-  bio: 
+  slug: lene-droesdal
+  short_bio: PhD, Senior Data Scientist, DNB
+  bio: Senior data scientist at DNB. Specialist in Big Data and IoT Analytics. PhD from CERN on a software framework developed to monitor and correct LHC injection beam quality.
 
 silje_laerk:
-  category: 
+  category: Technical Speaking, Security
   name: Silje Lærk
   pronouns: she/her
   twitter: siljel
   linkedin: https://www.linkedin.com/in/siljelaerk/
   website: 
   github: 
-  slug: silje_laerk
-  short_bio: 
-  bio: 
+  slug: silje-laerk
+  short_bio: Cyber Security Engineer, ABB
+  bio: Cyber Security Engineer at ABB. Previously founder and CEO of an online retail store, Storogfin.no that won Posten/Brings award for th best Online Store of the Year 2008. Active in the community.
 
 victoria_bergquist:
-  category: 
+  category: Technical Speaking, Programming, Community
   name: Victoria Bergquist
   pronouns: she/her
   twitter: vicbergquist
   linkedin: https://www.linkedin.com/in/vicbergquist/
   website: 
   github: 
-  slug: victoria_bergquist
-  short_bio: 
-  bio: 
+  slug: victoria-bergquist
+  short_bio: Frontend Engineer, Sanity.io
+  bio: Web developer at Sanity.io with an academic background in linguistics. Vuepress core team and Chapter Leader of VueVixens Germany. Speaks at conferences globally about vue.js.
 
 elizabeth_anne_passano:
-  category: 
+  category: Programming, Academic Research
   name: Elizabeth Anne Passano
   pronouns: 
   twitter: 
   linkedin: 
   website: 
   github: 
-  slug: elizabeth_anne_passano
-  short_bio: 
-  bio: 
+  slug: elizabeth-anne-passano
+  short_bio: Senior Research Scientist, SINTEF
+  bio: Senior Research Scientist at The Foundation for Industrial and Technical Research (SINTEF), specialising in Ocean energy and transport. An early AI expert, writes and maintains her own code, and presents internationally.
 
 hanne_johnsen:
-  category: 
+  category: Programming, Community
   name: Hanne Johnsen
   pronouns: she/her
   twitter: hanne_johnsen
   linkedin: https://www.linkedin.com/in/hanne-johnsen-4257632/
   website: 
   github: 
-  slug: hanne_johnsen
-  short_bio: 
-  bio: 
+  slug: hanne-johnsen
+  short_bio: Consultant, Bouvet
+  bio: .NET developer and solution architect at Bouvet. Digitized Oslo Pride bong system with IoT tickets.
 
 rikke_jansen:
-  category: 
+  category: Game Design, Game Programming, Animation
   name: Rikke Jansen
   pronouns: she/her
   twitter: mulmbot
   linkedin: https://www.linkedin.com/in/rikke-jansen-b6ba673
   website: 
   github: 
-  slug: rikke_jansen
-  short_bio: 
-  bio: 
+  slug: rikke-jansen
+  short_bio: Fish Person, In The Metaverse
+  bio: Game and VR 3D artist. "Fish Person in The Metaverse". Social VR expert and very entertaining speaker, often presenting as a fish person.
 
 razieh_behjati:
-  category: 
+  category: Programming, Quality Assurance / Testing
   name: Razieh Behjati
   pronouns: 
   twitter: RBehjati
   linkedin: https://www.linkedin.com/in/rbehjati/
   website: 
   github: 
-  slug: razieh_behjati
-  short_bio: 
-  bio: 
+  slug: razieh-behjati
+  short_bio: Senior Consultant & CTO, at Testify
+  bio: CTO at Testify AS which specialises in test automation. PhD in Software Engineering and an M.Sc in Artificial Intelligence.
 
 kristine_sevik:
-  category: 
+  category: Education
   name: Kristine Sevik
   pronouns: she/her
   twitter: ksevik
   linkedin: https://www.linkedin.com/in/ksevik/
   website: 
   github: 
-  slug: kristine_sevik
-  short_bio: 
-  bio: 
+  slug: kristine-sevik
+  short_bio: Senior Advisor, Norwegian centre for ICT in education
+  bio: Senior Advisor at the Norwegian Directorate for Education and Training. Wrote the experimental curriculum in elective programming and introduced the concept of algorithmic thinking. Board member of Norway Makers.
 
 siv_midtun_hollup:
-  category: 
+  category: Education, Community, Technical Speaking, Programming
   name: Siv Midtun Hollup
   pronouns: she/her
   twitter: sivmhollup
   linkedin: https://www.linkedin.com/in/siv-midtun-hollup-b263611/
   website: 
   github: 
-  slug: siv_midtun_hollup
-  short_bio: 
-  bio: 
+  slug: siv-midtun-hollup
+  short_bio: Consultant, Kantega
+  bio: Consultant developer and part-time University Lecturer. Co-founded NerdSchool which helps people into tech careers and develops coding curriculums for kindergartens.
 
 anna_broeyn:
-  category: 
+  category: Databases/Datawarehouse/Business Intelligence
   name: Anna Brøyn
   pronouns: she/her
   twitter: 
   linkedin: https://www.linkedin.com/in/annabroyn/
   website: 
   github: 
-  slug: anna_broeyn
-  short_bio: 
-  bio: 
+  slug: anna-broeyn
+  short_bio: Software Engineer, Sopra Steria
+  bio: Software architect and ETL developer at Sopra Steria, specialising in machine learning and image processing.
 
 eleanor_young:
-  category: 
+  category: Security, Game Programming
   name: Eleanor Young
   pronouns: she/her
   twitter: nausicaea
   linkedin: https://www.linkedin.com/in/eleanore-y-8b309b195
   website: 
   github: 
-  slug: eleanor_young
-  short_bio: 
-  bio: 
+  slug: eleanor-young
+  short_bio: Programming and Infrastructure, Koboldgames
+  bio: Game developer at Koboldgames with an academic background in electrical engineering, focussed on solid state electronics, nanosciences and bioelectronics.
 
 ewa_kabza:
-  category: 
+  category: Community, Academic Research, Technical Speaking
   name: Ewa Kabza
   pronouns: she/her
   twitter: ewakabza
   linkedin: https://www.linkedin.com/in/ewakabza
   website: 
   github: 
-  slug: ewa_kabza
-  short_bio: 
-  bio: 
+  slug: ewa-kabza
+  short_bio: System Consultant, EvokedSet
+  bio: System Consultant at EvokedSet AS. Core member of the Mobile Era conference team, former board member of the Oslo Java user group, javaBin, and a board member of Women in Tech Oslo.

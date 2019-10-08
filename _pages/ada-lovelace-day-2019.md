@@ -27,9 +27,9 @@ All attendees of our events are required to agree with our [Code of Conduct](/co
 | When  | What                                                                                                                                            |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 8:20  | breakfast &amp; mingling                                                                                                                        |
-| 9:00  | Keynote: [{{ ChristinGorman.name }}][christingorman] <em class="pronouns">({{ ChristinGorman.pronouns }})</em><br>_"{{ ChristinGorman.talk }}"_ |
-| 9:20  | Talk: [{{ maritio_o.name }}][maritio_o] <em class="pronouns">({{ maritio_o.pronouns }})</em><br>_"{{ maritio_o.talk }}"_                        |
-| 9:40  | Talk: [{{ siljelb.name }}][siljelb] <em class="pronouns">({{ siljelb.pronouns }})</em><br>_"{{ siljelb.talk }}"_                                |
+| 9:00  | Talk: [{{ maritio_o.name }}][maritio_o] <em class="pronouns">({{ maritio_o.pronouns }})</em><br>_"{{ maritio_o.talk }}"_                        |
+| 9:20  | Talk: [{{ siljelb.name }}][siljelb] <em class="pronouns">({{ siljelb.pronouns }})</em><br>_"{{ siljelb.talk }}"_                                |
+| 9:40  | Keynote: [{{ ChristinGorman.name }}][christingorman] <em class="pronouns">({{ ChristinGorman.pronouns }})</em><br>_"{{ ChristinGorman.talk }}"_ |
 | 10:00 | _Break_                                                                                                                                         |
 | 10:10 | Talk: [{{ lorena.name }}][lorena] <em class="pronouns">({{ lorena.pronouns }})</em><br>_"{{ lorena.talk }}"_                                    |
 | 10:30 | Talk: [{{ a_meba.name }}][a_meba] <em class="pronouns">({{ a_meba.pronouns }})</em><br>_"{{ a_meba.talk }}"_                                    |

@@ -37,7 +37,7 @@ All attendees of our events are required to agree with our [Code of Conduct](/co
 | 11:10 | _Break_                                                                                                                                         |
 | 11:20 | Talk: [{{ mulmbot.name }}][mulmbot] <em class="pronouns">({{ mulmbot.pronouns }})</em><br>_"{{ mulmbot.talk }}"_                                |
 | 11:40 | Talk: [{{ tannaznvr.name }}][tannaznvr] <em class="pronouns">({{ tannaznvr.pronouns }})</em><br>_"{{ tannaznvr.talk }}"_                        |
-| 12:00 | Presentation of the 2019 _List of Role Models_                                                                                                  |
+| 12:00 | Presentation of the [2019 List of Role Models]({{site.baseurl}}/tech-role-models-2019)                                                          |
 | 12:20 | _Lunch_                                                                                                                                         |
 
 [christingorman]: {{site.baseurl}}/christin-gorman-public-sector/

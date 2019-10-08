@@ -11,6 +11,10 @@
     {% assign speaker = site.data.speakers[page.speaker] %}
     {% assign title = speaker.name %}
     {% endif %}
+    {% if page.rolemodel %}
+    {% assign rolemodel = site.data.rolemodels[page.rolemodel] %}
+    {% assign title = rolemodel.name | prepend: 'Tech Role Model: ' %}
+    {% endif %}
     {%- capture _page_title -%}
     {%- if title -%}{{- title | append: ' | ' -}}{%- endif -%}
     {{- site.name | default: "Untitled Website" -}}
@@ -21,6 +25,11 @@
     {% if page.speaker %}
     {%- capture _page_description -%}
     {{ speaker.name }} speaks at Tech Woman Norway's Ada Lovelace Day
+    {%- endcapture -%}
+    {% endif %}
+    {% if page.rolemodel %}
+    {%- capture _page_description -%}
+    {{ rolemodel.name }} is a Tech Role Model in the categories: {{ rolemodel.category }}
     {%- endcapture -%}
     {% endif %}
     {%- assign _page_image = page.image | default: site.logo | escape -%}

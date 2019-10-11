@@ -1,0 +1,20 @@
+
+{% if include.profile.youtube_embed %}
+<script type="text/javascript">
+  window.onload = () => {
+    const el = document.getElementById("videotarget");
+    const iframe = document.createElement("iframe");
+    iframe.frameBorder = 0;
+    iframe.allow =
+      "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture";
+    iframe.allowFullscreen = true;
+    iframe.src =
+      "https://www.youtube-nocookie.com/embed/{{rolemodel.youtube_embed}}";
+    const w = el.clientWidth - 20;
+    iframe.width = w;
+    iframe.height = Math.round(w * 0.54);
+    el.appendChild(iframe);
+  };
+</script>
+<div class="container speaker" id="videotarget"></div>
+{% endif %}

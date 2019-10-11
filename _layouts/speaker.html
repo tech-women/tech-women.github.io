@@ -19,15 +19,6 @@ layout: default
     <p><a href="{{ speaker.site }}">{{ speaker.site }}</a></p>
     {% endif %} {{ speaker.bio | markdownify }} {% include profile-links.html
     profile=speaker %}
-
-    <hr />
-
-    <p>
-      Meet {{ speaker.name }} at
-      <a href="{{site.baseurl}}/ada-lovelace-day-2019.html">Ada Lovelace Day</a
-      >:<br />
-      <em>&quot;{{ speaker.talk }}&quot;</em>
-    </p>
   </div>
   <div class="avatar">
     <img

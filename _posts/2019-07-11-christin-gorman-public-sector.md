@@ -38,12 +38,3 @@ Thankfully, Gorman keeps on pointing out the flawed thinking that still permeate
 [6]: https://en.wikipedia.org/wiki/Norwegian_Labour_and_Welfare_Administration
 [7]: https://twitter.com/ChristinGorman/status/1109385328127852545
 [8]: https://vimeo.com/189664989
-
-{% assign ChristinGorman = site.data.speakers.ChristinGorman %}
-
-{% include profile-links.html profile=ChristinGorman %}
-
----
-
-Meet {{ ChristinGorman.name }} at [Ada Lovelace Day]({{site.baseurl}}/ada-lovelace-day-2019.html):  
-_"{{ ChristinGorman.talk }}"_

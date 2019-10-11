@@ -40,7 +40,7 @@ All attendees of our events are required to agree with our [Code of Conduct](/co
 | 12:00 | Presentation of the [2019 List of Role Models]({{site.baseurl}}/tech-role-models-2019)                                                          |
 | 12:20 | _Lunch_                                                                                                                                         |
 
-[christingorman]: {{site.baseurl}}/christin-gorman-public-sector/
+[christingorman]: {{site.baseurl}}/role-models/2019/christin-gorman
 [siljelb]: {{site.baseurl}}/speakers/silje-ljosland-bakke
 [lorena]: {{site.baseurl}}/speakers/lorena-carthy
 [siljel]: {{site.baseurl}}/speakers/silje-lærk

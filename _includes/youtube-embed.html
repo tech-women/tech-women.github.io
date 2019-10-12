@@ -9,7 +9,7 @@
       "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture";
     iframe.allowFullscreen = true;
     iframe.src =
-      "https://www.youtube-nocookie.com/embed/{{rolemodel.youtube_embed}}";
+      "https://www.youtube-nocookie.com/embed/{{include.profile.youtube_embed}}";
     const w = el.clientWidth - 20;
     iframe.width = w;
     iframe.height = Math.round(w * 0.54);

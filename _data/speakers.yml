@@ -10,6 +10,7 @@ lorena:
 
     Lorena wears hearing aids so please face her when talking to her.
   talk: The good and the ugly side of SOCMINT Forensics
+  youtube_embed: U9b2WIdTQfo
 
 siljel:
   name: Silje Lærk
@@ -24,6 +25,7 @@ siljel:
 
     She is a strong believer in making technology understandable for everyone.
   talk: Loud and Unclear! Why a clear message is important for security.
+  youtube_embed: qzdHJDoDzEE
 
 tannaznvr:
   name: Tannaz N. Roshandel
@@ -65,6 +67,7 @@ a_meba:
     She enjoys the complexity of computer systems, debugging, collaborating, and camping in the woods.
   talk: >-
     From Ruby apps to large scale distributed systems: navigating technology as a self-taught outsider
+  youtube_embed: 2flHpbL_Nrk
 
 ChristinGorman:
   name: Christin Gorman

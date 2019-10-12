@@ -15,6 +15,8 @@ All attendees of our events are required to agree with our [Code of Conduct](/co
 
 ## Schedule
 
+You can watch the recordings of the talks now [on our YouTube channel](https://www.youtube.com/watch?v=cFH77pcSZzo&list=PL6JNLg5GnxPhJkUm8mihIAEdi54WJYBP_).
+
 {% assign lorena = site.data.speakers.lorena %}
 {% assign siljel = site.data.speakers.siljel %}
 {% assign tannaznvr = site.data.speakers.tannaznvr %}

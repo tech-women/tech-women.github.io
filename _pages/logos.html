@@ -10,6 +10,7 @@ permalink: "/logos"
         text-align: center;
         position: relative;
     }
+
     div.logo.random span {
         position: absolute;
         top: 50%;
@@ -19,10 +20,10 @@ permalink: "/logos"
     }
 </style>
 <script type="text/javascript">
-    const randomColor = () => '#'+Math.floor(Math.random()*16777215).toString(16);
+    const randomColor = () => '#' + Math.floor(Math.random() * 16777215).toString(16);
     const randomLogo = () => {
         const sheet = document.getElementById('randomLogoStyle').sheet
-        for (let i=0; i < sheet.rules.length; i++) {
+        for (let i = 0; i < sheet.rules.length; i++) {
             sheet.deleteRule(i)
         }
         sheet.insertRule(`
@@ -98,6 +99,14 @@ permalink: "/logos"
             <h2>Trans (Blue)</h2>
             <div class="logo trans-blue">
                 {% include logo.svg %}
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-3">
+            <h2>Title and URL</h2>
+            <div class="logo text">
+                <img alt="Logo with title and url" src="{{site.baseurl}}/assets/logo/business-with-text.svg" />
             </div>
         </div>
     </div>

@@ -12,7 +12,7 @@ tags: featured
 
 (Norwegian press release further down)
 
-Tech Women Norway is a yearly conference to celebrate Norwegian women and non-binary people that are Individual Contributors in Tech on Ada Lovelace Day. This year Ada Lovelace Day, and as such our conference, falls on October 13th 2020. We hope you want to nominate some of the women or non-binary people that you know for Tech Role Models 2020!
+Ada Lovelace Day Conference (AdaCon) is a yearly conference, arranged by Tech Women Norway, to celebrate Norwegian women and non-binary people that are Individual Contributors in Tech. This years Ada Lovelace Day, and as such our conference, falls on October 13th 2020. We hope you want to nominate some of the women or non-binary people that you know for Tech Role Models 2020!
 
 The conference gives women and non-binary people the platform to give engaging presentations about their work and fields. Additionally, we present our Tech Role Models of 2020.
 
@@ -22,7 +22,7 @@ The role models are selected in collaboration with an independent jury and prese
 
 ## Who can be nominated?
 
-Any woman or non-binary person - either living in Norway or as a Norwegian living abroad - who has hands-on contributions to the tech field can be nominated! This includes everyone from the librarian who has set up a local class for kids to learn coding, to a person who are trailblazers within their field. 
+Any woman or non-binary person - either living in Norway or as a Norwegian living abroad - who has hands-on contributions to the tech field can be nominated! This includes everyone from the librarian who has set up a local class for kids to learn coding, to a person who are trailblazers within their field.
 
 Do you know any women or non-binary people whose work within tech deserves recognition? Please nominate them to the Tech Role Models 2020 [here][3]!
 
@@ -30,9 +30,9 @@ The deadline for nominating is: September 1st 2020
 
 # Vi har nå åpnet nominasjonene for Tech Role Models 2020!
 
-Vi i Tech Women Norway håper dere har lyst til å nominere kvinnene og de ikke-binære personene som jobber hos dere, eller som dere kjenner, til vår Tech Role Models 2020! Vi håper dere også har lyst til å spre dette til alle som er i deres egne nettverk.
+Ada Lovelace Day Conference (AdaCon) er en årlig konferanse, arrangert av Tech Women Norway, for å feire kvinner og ikke-binære personer som er individuelle bidragsytere i tech. I år faller Ada Lovelace Day på 13. oktober 2020, og dette er da datoen for årets konferanse!
 
-Tech Women Norway er en årlig konferanse for å feire norske kvinner og ikke-binære personer som er individuelle bidragsytere i tech på Ada Lovelace Day. I år faller Ada Lovelace Day på 13. oktober 2020, og er datoen for årets konferanse!
+Vi i Tech Women Norway håper dere har lyst til å nominere kvinnene og de ikke-binære personene som jobber hos dere, eller som dere kjenner, til vår Tech Role Models 2020! Vi håper dere også har lyst til å spre dette til alle som er i deres egne nettverk.
 
 Konferansen gir kvinner og ikke-binære personer en plattform til å gi engasjerende presentasjoner om sitt arbeid og sine felt. I tillegg presenterer vi Tech Role Models 2020. Du kan lese mer om Tech Role Models-initiativet på norsk [her][1], og ta en titt på fjorårets Tech Role Models [her][2]!
 

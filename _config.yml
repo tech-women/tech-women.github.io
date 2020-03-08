@@ -55,6 +55,14 @@ authors:
     email:
     twitter: https://twitter.com/Antzee_
 
+  tiril:
+    name: Tiril
+    site:
+    avatar: assets/images/tiril-stenhammer.jpg
+    bio: "Communications and Events"
+    email:
+    linkedin: https://www.linkedin.com/in/tiril-stenhammer/
+
 # Defaults
 defaults:
   # all posts

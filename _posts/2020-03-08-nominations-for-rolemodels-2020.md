@@ -22,7 +22,7 @@ The role models are selected in collaboration with an independent jury and prese
 
 ## Who can be nominated?
 
-Any woman or non-binary person - either living in Norway or as a Norwegian living abroad - who has hands-on contributions to the tech field can be nominated! This includes everyone from the librarian who has set up a local class for kids to learn coding, to a person who are trailblazers within their field.
+Any woman or non-binary person - either living in Norway or as a Norwegian living abroad - who has hands-on contributions to the tech field can be nominated! This includes everyone from the librarian who has set up a local class for kids to learn coding, to a person who is a trailblazer within their field.
 
 Do you know any women or non-binary people whose work within tech deserves recognition? Please nominate them to the Tech Role Models 2020 [here][3]!
 

@@ -36,31 +36,24 @@ authors:
     site: https://winifredburton.com
     avatar: assets/images/winifred.jpg
     bio: "Writer and QA"
-    email:
     twitter: https://twitter.com/winnaburto
 
   marte:
     name: marte
-    site:
     avatar: assets/images/marte.jpg
     bio: "Programmer and search nerd"
-    email:
     twitter: https://twitter.com/Marte_Helene
 
   trud:
     name: trud
-    site:
     avatar: assets/images/trud-antzee.jpg
     bio: "Programming and data visualisation"
-    email:
     twitter: https://twitter.com/Antzee_
 
   tiril:
     name: Tiril
-    site:
     avatar: assets/images/tiril-stenhammer.jpg
     bio: "Communications and Events"
-    email:
     linkedin: https://www.linkedin.com/in/tiril-stenhammer/
 
 # Defaults
